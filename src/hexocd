@@ -1,4 +1,5 @@
 # shellcheck disable=SC2034 # Will be sourced by confsubst
+# vim: ft=sh
 
 CY1=#BB6688
 C09=#CC5577
@@ -153,3 +154,5 @@ EK9=#6B6B9F
 # #F96D6D
 # #B84D69
 # #16a085 fg acnt
+#
+
