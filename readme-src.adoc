@@ -1,0 +1,15 @@
+= HEXOCD
+:toc:
+
+hexocd
+[source, SHELL]
+----
+include::src/hexocd[tags=dev]
+----
+
+all
+[source, sh]
+----
+include::src/hexocd[tags=dev]
+----
+

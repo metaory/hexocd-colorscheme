@@ -1,6 +1,7 @@
 # shellcheck disable=SC2034 # Will be sourced by confsubst
 # vim: ft=sh
 
+#tag::dev[]
 CY1=#BB6688
 C09=#CC5577
 C01=#DD4466
@@ -10,6 +11,7 @@ CY2=#77DD55
 C10=#55CC44
 C02=#33BB33
 CX2=#11AA22
+#end::dev[]
 
 CY3=#CCEE66
 C11=#DDDD44
