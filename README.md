@@ -1,5 +1,6 @@
 <div align="center">
   <h1>HEXOCD</h1>
+  <img src=".github/assets/icon.png" />
 </div>
 
 <div align="center">
