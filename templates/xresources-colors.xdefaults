@@ -1,0 +1,48 @@
+! mxc: path=./themes/xresources.xdefaults
+
+! WARN: above path is for demonstration, use the correct path or copy and rename the file manually
+! for more doc: github.com/metaory/confsubst
+
+*.background:           $XBG
+*.foreground:           $XFG
+
+*.selection_background: $CX5
+*.selection_foreground: $C15
+
+*.cursor_text_color:    $C00
+*.cursor:               $CX1
+
+*.color0:  $C00
+*.color1:  $C01
+*.color2:  $C02
+*.color3:  $C03
+*.color4:  $C04
+*.color5:  $C05
+*.color6:  $C06
+*.color7:  $C07
+*.color8:  $C08
+*.color9:  $C09
+*.color10: $C10
+*.color11: $C11
+*.color12: $C12
+*.color13: $C13
+*.color14: $C14
+*.color15: $C15
+
+*.c00: $C00
+*.c01: $C01
+*.c02: $C02
+*.c03: $C03
+*.c04: $C04
+*.c05: $C05
+*.c06: $C06
+*.c07: $C07
+*.c08: $C08
+*.c09: $C09
+*.c10: $C10
+*.c11: $C11
+*.c12: $C12
+*.c13: $C13
+*.c14: $C14
+*.c15: $C15
+

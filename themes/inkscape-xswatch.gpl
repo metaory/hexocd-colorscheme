@@ -1,0 +1,30 @@
+# mxc: path=./themes/inkscape-xswatch.gpl
+
+# WARN: above path is for demonstration, use the correct path or copy and rename the file manually
+# for more doc: github.com/metaory/confsubst
+
+# TODO: confsubst POST hook not implemented
+
+GIMP Palette
+Name: inkscape-xswatch.gpl
+#
+ 0   0   0  BLACK
+255 255 255 WHITE
+{R} {G} {B} #111122
+{R} {G} {B} #FFFDFF
+{R} {G} {B} #DD4466
+{R} {G} {B} #33BB33
+{R} {G} {B} #EECC22
+{R} {G} {B} #1188EE
+{R} {G} {B} #5566EE
+{R} {G} {B} #44CCEE
+{R} {G} {B} #222233
+{R} {G} {B} #667788
+{R} {G} {B} #445566
+{R} {G} {B} #CC5577
+{R} {G} {B} #55CC44
+{R} {G} {B} #DDDD44
+{R} {G} {B} #77AADD
+{R} {G} {B} #6688CC
+{R} {G} {B} #66DDDD
+{R} {G} {B} #AACCFF

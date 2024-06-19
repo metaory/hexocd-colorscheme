@@ -1,0 +1,28 @@
+# mxc: path=./themes/inkscape-xswatch.gpl
+
+# WARN: above path is for demonstration, use the correct path or copy and rename the file manually
+# for more doc: github.com/metaory/confsubst
+
+GIMP Palette
+Name: inkscape-xswatch.gpl
+#
+ 0   0   0  BLACK
+255 255 255 WHITE
+{R} {G} {B} $XBG
+{R} {G} {B} $XFG
+{R} {G} {B} $C01
+{R} {G} {B} $C02
+{R} {G} {B} $C03
+{R} {G} {B} $C04
+{R} {G} {B} $C05
+{R} {G} {B} $C06
+{R} {G} {B} $C00
+{R} {G} {B} $C07
+{R} {G} {B} $C08
+{R} {G} {B} $C09
+{R} {G} {B} $C10
+{R} {G} {B} $C11
+{R} {G} {B} $C12
+{R} {G} {B} $C13
+{R} {G} {B} $C14
+{R} {G} {B} $C15
