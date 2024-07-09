@@ -108,65 +108,65 @@ Eg. [templates/wezterm-colors.lua](templates/wezterm-colors.lua)
       <hr>
       <tr>
         <td></td>
-        <td><img width="96" src="https://placehold.co/96/AA7799/000.webp?text=SK9&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/7799AA/000.webp?text=WK9&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/77AA99/000.webp?text=EK9&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/BB7799/000.webp?text=SK9&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/7799BB/000.webp?text=WK9&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/77BB99/000.webp?text=EK9&font=oswald"/></td>
         <td></td>
       </tr>
       <tr>
         <td></td>
-        <td><img width="96" src="https://placehold.co/96/996688/000.webp?text=SK8&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/668899/000.webp?text=WK8&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/669988/000.webp?text=EK8&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/AA6688/000.webp?text=SK8&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/6688AA/000.webp?text=WK8&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/66AA88/000.webp?text=EK8&font=oswald"/></td>
         <td></td>
       </tr>
       <tr>
         <td></td>
-        <td><img width="96" src="https://placehold.co/96/885577/000.webp?text=SK7&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/557788/000.webp?text=WK7&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/558877/000.webp?text=EK7&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/995577/000.webp?text=SK7&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/557799/000.webp?text=WK7&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/559977/000.webp?text=EK7&font=oswald"/></td>
         <td></td>
       </tr>
       <tr>
         <td></td>
-        <td><img width="96" src="https://placehold.co/96/774466/000.webp?text=SK6&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/446677/000.webp?text=WK6&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/447766/000.webp?text=EK6&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/884466/000.webp?text=SK6&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/446688/000.webp?text=WK6&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/448866/000.webp?text=EK6&font=oswald"/></td>
         <td></td>
       </tr>
       <tr>
         <td></td>
-        <td><img width="96" src="https://placehold.co/96/663355/000.webp?text=SK5&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/335566/000.webp?text=WK5&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/336655/000.webp?text=EK5&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/773355/000.webp?text=SK5&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/335577/000.webp?text=WK5&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/337755/000.webp?text=EK5&font=oswald"/></td>
         <td></td>
       </tr>
       <tr>
         <td></td>
-        <td><img width="96" src="https://placehold.co/96/552244/FFF.webp?text=SK4&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/224455/FFF.webp?text=WK4&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/225544/FFF.webp?text=EK4&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/662244/FFF.webp?text=SK4&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/224466/FFF.webp?text=WK4&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/226644/FFF.webp?text=EK4&font=oswald"/></td>
         <td></td>
       </tr>
       <tr>
         <td></td>
-        <td><img width="96" src="https://placehold.co/96/441133/FFF.webp?text=SK3&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/113344/FFF.webp?text=WK3&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/114433/FFF.webp?text=EK3&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/551133/FFF.webp?text=SK3&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/113355/FFF.webp?text=WK3&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/115533/FFF.webp?text=EK3&font=oswald"/></td>
         <td></td>
       </tr>
       <tr>
         <td></td>
-        <td><img width="96" src="https://placehold.co/96/330022/FFF.webp?text=SK2&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/002233/FFF.webp?text=WK2&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/003322/FFF.webp?text=EK2&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/440022/FFF.webp?text=SK2&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/002244/FFF.webp?text=WK2&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/004422/FFF.webp?text=EK2&font=oswald"/></td>
         <td></td>
       </tr>
       <tr>
         <td></td>
-        <td><img width="96" src="https://placehold.co/96/220011/FFF.webp?text=SK1&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/001122/FFF.webp?text=WK1&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/002211/FFF.webp?text=EK1&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/330011/FFF.webp?text=SK1&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/001133/FFF.webp?text=WK1&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/003311/FFF.webp?text=EK1&font=oswald"/></td>
         <td></td>
       </tr>
     </tbody>
