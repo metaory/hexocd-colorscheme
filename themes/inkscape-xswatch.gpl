@@ -5,33 +5,33 @@ Name: inkscape-xswatch.gpl
 255 255 255 WHITE
 {R} {G} {B} #111122
 {R} {G} {B} #BBDDFF
-{R} {G} {B} #DD3366
+{R} {G} {B} #DD4466
 {R} {G} {B} #33BB33
-{R} {G} {B} #EECC22
-{R} {G} {B} #1188EE
-{R} {G} {B} #5566EE
-{R} {G} {B} #44CCEE
-{R} {G} {B} #222233
+{R} {G} {B} #BBCC44
+{R} {G} {B} #4466DD
+{R} {G} {B} #6666EE
+{R} {G} {B} #44BBBB
+{R} {G} {B} #223344
 {R} {G} {B} #667788
-{R} {G} {B} #445566
-{R} {G} {B} #CC4477
-{R} {G} {B} #55CC44
-{R} {G} {B} #DDDD44
-{R} {G} {B} #77AADD
-{R} {G} {B} #6688CC
-{R} {G} {B} #66DDDD
+{R} {G} {B} #334466
+{R} {G} {B} #CC6677
+{R} {G} {B} #44CC55
+{R} {G} {B} #CCDD66
+{R} {G} {B} #5588EE
+{R} {G} {B} #7788CC
+{R} {G} {B} #55DDCC
 {R} {G} {B} #AACCFF
 
 {R} {G} {B} #EE2255
-{R} {G} {B} #11AA22
-{R} {G} {B} #FFBB00
-{R} {G} {B} #2266FF
-{R} {G} {B} #6655FF
-{R} {G} {B} #11AAFF
+{R} {G} {B} #22AA11
+{R} {G} {B} #AABB22
+{R} {G} {B} #3344CC
+{R} {G} {B} #5544FF
+{R} {G} {B} #3399AA
 
 {R} {G} {B} #EE2255
-{R} {G} {B} #3311FF
-{R} {G} {B} #11AA22
+{R} {G} {B} #3344CC
+{R} {G} {B} #22AA11
 
 # mxc: path=/home/meta/.config/inkscape/palettes/inkscape-xswatch.gpl
 
