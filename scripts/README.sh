@@ -6,7 +6,7 @@ export FG='000000'
 export FMT='webp'
 export FONT='oswald'
 
-TPL="${1:-templates/README.tpl}"
+TPL="${1:-templates/README.md}"
 
 [ -e "${TPL}" ] || exit 1
 
