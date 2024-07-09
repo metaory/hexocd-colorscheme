@@ -1,18 +1,16 @@
--- mxc: path=./themes/wezterm-color.lua label=wezterm
-
--- WARN: above path is for demonstration, use the correct path or copy and rename the file manually
--- for more doc: github.com/metaory/confsubst
+-- mxc: path=/home/meta/.config/wezterm/color.lua label=wezterm
 
 local M = {}
 
 M.apply = function(cfg)
+  cfg.color_scheme = "tokyonight_night"
   cfg.force_reverse_video_cursor = true
   cfg.colors = {
-    foreground = "#FFFDFF",
+    foreground = "#BBDDFF",
     background = "#111122",
     ansi = {
       "#222233",
-      "#DD4466",
+      "#DD3366",
       "#33BB33",
       "#EECC22",
       "#1188EE",
@@ -22,7 +20,7 @@ M.apply = function(cfg)
     },
     brights = {
       "#445566",
-      "#CC5577",
+      "#CC4477",
       "#55CC44",
       "#DDDD44",
       "#77AADD",

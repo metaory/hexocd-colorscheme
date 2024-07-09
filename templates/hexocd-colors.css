@@ -1,0 +1,50 @@
+/* mxc: path=$HOME/dev/$USER/x-crx/x-colr/tld/global/globals.css */
+
+:root {
+  --red                  :$C01 !important;
+  --green                :$C02 !important;
+  --yellow               :$C03 !important;
+  --blue                 :$C04 !important;
+  --magenta              :$C05 !important;
+  --cyan                 :$C06 !important;
+  --black                :$C00 !important;
+  --white                :$C07 !important;
+
+  --pink                 :$CX5 !important;
+  --orange               :$CX3 !important;
+
+  --bold-red             :$CX1 !important;
+  --bold-green           :$CX2 !important;
+  --bold-yellow          :$CX3 !important;
+  --bold-blue            :$CX4 !important;
+  --bold-magenta         :$CX5 !important;
+  --bold-cyan            :$CX6 !important;
+
+  --bright-red           :$C09 !important;
+  --bright-green         :$C10 !important;
+  --bright-yellow        :$C11 !important;
+  --bright-blue          :$C12 !important;
+  --bright-magenta       :$C13 !important;
+  --bright-cyan          :$C14 !important;
+  --bright-black         :$C08 !important;
+  --bright-white         :$C15 !important;
+
+  --SBG                  :$SBG !important;
+  --SFG                  :$SFG !important;
+  --WBG                  :$WBG !important;
+  --WFG                  :$WFG !important;
+  --EBG                  :$EBG !important;
+  --EFG                  :$EFG !important;
+  --XBG                  :$XBG !important;
+  --XFG                  :$XFG !important;
+  --OBG                  :$OBG !important;
+  --OFG                  :$OFG !important;
+  --WBX                  :$WBX !important;
+  --WFX                  :$WFX !important;
+
+  --primary-color        :$WBG !important;
+  --highlight-color      :$SBG !important;
+  --highlight-secondary  :$EBG !important;
+  --text-color           :$XFG !important;
+  --bg-color             :$XBG !important;
+}

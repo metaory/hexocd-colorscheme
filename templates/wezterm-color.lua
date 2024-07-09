@@ -1,11 +1,9 @@
--- mxc: path=./themes/wezterm-color.lua label=wezterm
-
--- WARN: above path is for demonstration, use the correct path or copy and rename the file manually
--- for more doc: github.com/metaory/confsubst
+-- mxc: path=$XDG_CONFIG_HOME/wezterm/color.lua label=wezterm
 
 local M = {}
 
 M.apply = function(cfg)
+  cfg.color_scheme = "tokyonight_night"
   cfg.force_reverse_video_cursor = true
   cfg.colors = {
     foreground = "$XFG",

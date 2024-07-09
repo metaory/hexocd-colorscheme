@@ -1,18 +1,11 @@
-# mxc: path=./themes/inkscape-xswatch.gpl
-
-# WARN: above path is for demonstration, use the correct path or copy and rename the file manually
-# for more doc: github.com/metaory/confsubst
-
-# TODO: confsubst POST hook not implemented
-
 GIMP Palette
 Name: inkscape-xswatch.gpl
 #
  0   0   0  BLACK
 255 255 255 WHITE
 {R} {G} {B} #111122
-{R} {G} {B} #FFFDFF
-{R} {G} {B} #DD4466
+{R} {G} {B} #BBDDFF
+{R} {G} {B} #DD3366
 {R} {G} {B} #33BB33
 {R} {G} {B} #EECC22
 {R} {G} {B} #1188EE
@@ -21,10 +14,25 @@ Name: inkscape-xswatch.gpl
 {R} {G} {B} #222233
 {R} {G} {B} #667788
 {R} {G} {B} #445566
-{R} {G} {B} #CC5577
+{R} {G} {B} #CC4477
 {R} {G} {B} #55CC44
 {R} {G} {B} #DDDD44
 {R} {G} {B} #77AADD
 {R} {G} {B} #6688CC
 {R} {G} {B} #66DDDD
 {R} {G} {B} #AACCFF
+
+{R} {G} {B} #EE2255
+{R} {G} {B} #11AA22
+{R} {G} {B} #FFBB00
+{R} {G} {B} #2266FF
+{R} {G} {B} #6655FF
+{R} {G} {B} #11AAFF
+
+{R} {G} {B} #EE2255
+{R} {G} {B} #3311FF
+{R} {G} {B} #11AA22
+
+# mxc: path=/home/meta/.config/inkscape/palettes/inkscape-xswatch.gpl
+
+# post=sed -r -i '/R/s#.*(\#[A-Fa-f0-9]{6})$# printf "%s %s %s %s" $(pastel format rgb <<< "\1" |  sed -e "s/[rgb(,)]//g") " \1";#e' inkscape-xswatch.gpl

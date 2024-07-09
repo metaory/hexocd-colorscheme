@@ -1,8 +1,3 @@
-# mxc: path=./themes/inkscape-xswatch.gpl
-
-# WARN: above path is for demonstration, use the correct path or copy and rename the file manually
-# for more doc: github.com/metaory/confsubst
-
 GIMP Palette
 Name: inkscape-xswatch.gpl
 #
@@ -26,3 +21,18 @@ Name: inkscape-xswatch.gpl
 {R} {G} {B} $C13
 {R} {G} {B} $C14
 {R} {G} {B} $C15
+
+{R} {G} {B} $CX1
+{R} {G} {B} $CX2
+{R} {G} {B} $CX3
+{R} {G} {B} $CX4
+{R} {G} {B} $CX5
+{R} {G} {B} $CX6
+
+{R} {G} {B} $SBG
+{R} {G} {B} $WBG
+{R} {G} {B} $EBG
+
+# mxc: path=$XDG_CONFIG_HOME/inkscape/palettes/inkscape-xswatch.gpl
+
+# post=sed -r -i '/R/s#.*(\#[A-Fa-f0-9]{6})$# printf "%s %s %s %s" $(pastel format rgb <<< "\1" |  sed -e "s/[rgb(,)]//g") " \1";#e' inkscape-xswatch.gpl

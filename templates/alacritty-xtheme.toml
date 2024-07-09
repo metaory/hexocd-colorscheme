@@ -7,6 +7,8 @@ draw_bold_text_with_bright_colors = true
 [colors.primary]
 foreground = '$XFG'
 background = '$XBG'
+# dim_foreground    = '#dbdbdb'
+# bright_foreground = '#d9d9d9'
 
 [colors.hints.start]
 foreground = '#000000'
@@ -17,7 +19,7 @@ foreground = '#000000'
 background = '$C05'
 
 [colors.selection]
-text       = '#000000'
+text = '#000000'
 background = '$C04'
 
 [colors.footer_bar]
@@ -37,29 +39,39 @@ foreground = '#000000'
 background = '$C03'
 
 [colors.vi_mode_cursor]
-text   = 'CellBackground'
+text = 'CellBackground'
 cursor = 'CellForeground'
 
 [colors.cursor]
-text   = 'CellBackground'
+text = 'CellBackground'
 cursor = 'CellForeground'
 
 [colors.normal]
-red     = '$C01'
-green   = '$C02'
-yellow  = '$C03'
-blue    = '$C04'
+red = '$C01'
+green = '$C02'
+yellow = '$C03'
+blue = '$C04'
 magenta = '$C05'
-cyan    = '$C06'
-black   = '$C00'
-white   = '$C07'
+cyan = '$C06'
+black = '$C00'
+white = '$C07'
 
 [colors.bright]
-red     = '$C09'
-green   = '$C10'
-yellow  = '$C11'
-blue    = '$C12'
+red = '$C09'
+green = '$C10'
+yellow = '$C11'
+blue = '$C12'
 magenta = '$C13'
-cyan    = '$C14'
-black   = '$C08'
-white   = '$C15'
+cyan = '$C14'
+black = '$C08'
+white = '$C15'
+
+# [colors.dim]
+# red     = '$C09'
+# green   = '$C10'
+# yellow  = '$C11'
+# blue    = '$C12'
+# magenta = '$C13'
+# cyan    = '$C14'
+# black   = '$C08'
+# white   = '$C15'

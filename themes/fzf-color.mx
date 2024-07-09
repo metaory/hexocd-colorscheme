@@ -1,0 +1,61 @@
+#!/bin/bash
+
+# mxc: path=/home/meta/.config/mxc/fzf.mx
+
+# original template ~/dev/meta/confsubst/templates/fzf-opts.sh
+
+export SKIM_DEFAULT_COMMAND="find . -type f || git ls-tree -r --name-only HEAD || rg --files || find ."
+
+# --header-lines=1
+export SKIM_DEFAULT_OPTIONS='--height=50%
+--multi
+--prompt="􂨬 "
+--cmd-prompt="􂨩 "
+--inline-info
+--layout=default
+--preview="[[ $(file -ib {+} | cut -d/ -f1) == text ]] && bat --style=numbers {-1};"
+--preview-window "+{2}-/2"
+--bind "enter:execute(nvim {})"
+--bind "ctrl-y:yank"
+--bind "ctrl-s:toggle-sort"
+--bind "ctrl-t:toggle-preview-wrap"
+--bind "ctrl-a:select-all+accept"
+--bind "ctrl-d:if-query-empty(abort)+delete-char"
+--color "matched_bg:#000000,matched:#EE2255,current_match:#000000,current_match_bg:#EE2255,bg+:#3311FF,fg+:#FFFFFF,info:#11AA22,prompt:#2266FF,pointer:#FFBB00,header:#6655FF,border:#222233,spinner:#11AAFF,query:#11AA22,marker:#FFBB00"'
+
+export FZF_COMPLETION_AUTO_COMMON_PREFIX=true
+export FZF_COMPLETION_AUTO_COMMON_PREFIX_PART=true
+
+export FZF_HEIGHTS='90%'
+
+export FZF_DEFAULT_OPTS="
+--preview='bash -c \"\$(which mpreview) {}\"'
+--preview-window=right:hidden:wrap
+--hscroll-off=400
+--bind='ctrl-/:toggle-preview'
+--bind=ctrl-s:toggle-sort
+--height=${FZF_HEIGHTS:-100%}
+--layout=reverse
+--info=inline
+--ansi
+--no-border
+--color=gutter:#222233
+--color=fg:#BBDDFF,hl:#EE2255
+--color=fg+:#FFFFFF,bg+:#3311FF,hl+:#11AA22
+--color=info:#11AA22,prompt:#2266FF,pointer:#EE2255
+--color=marker:#11AA22,spinner:#11AAFF,header:#6655FF"
+
+export FZF_CTRL_R_OPTS="
+--preview='echo {}'
+--preview-window=up:3:hidden:wrap
+--bind='ctrl-/:toggle-preview'
+--bind='ctrl-y:execute-silent(echo -n {2..} | xclip -selection c)+abort'
+--color=header:italic
+--header 'Press CTRL-Y to copy command into clipboard'"
+
+export FZF_ALT_C_OPTS="--preview 'tree -C {}'"
+
+export FZF_COMPLETION_OPTS='--border --info=inline'
+
+# vim: ts=2 sts=2 sw=2 ft=bash et
+
