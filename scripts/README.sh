@@ -6,12 +6,5 @@ export FG='000000'
 export FMT='webp'
 export FONT='oswald'
 
-TPL="${1:-templates/README.md}"
-
-[ -e "${TPL}" ] || exit 1
-
-confsubst -e <(sed 's/=#/=/g' hexocd.env) "$TPL"
-
-# TMP HACK since https://github.com/metaory/confsubst
-# dont support loading multiple .env files... yet!
+confsubst -e <(sed 's/=#/=/g' hexocd.env) "${1:-templates/README.md}"
 
