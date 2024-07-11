@@ -35,14 +35,14 @@
       <tr>
         <td><img width="${W}" src="${U}/${W}/${CY4}/000.${FMT}?text=CY4&font=${FONT}"/></td>
         <td><img width="${W}" src="${U}/${W}/${C12}/000.${FMT}?text=C12&font=${FONT}"/></td>
-        <td><img width="${W}" src="${U}/${W}/${C04}/000.${FMT}?text=C04&font=${FONT}"/></td>
-        <td><img width="${W}" src="${U}/${W}/${CX4}/000.${FMT}?text=CX4&font=${FONT}"/></td>
+        <td><img width="${W}" src="${U}/${W}/${C04}/FFF.${FMT}?text=C04&font=${FONT}"/></td>
+        <td><img width="${W}" src="${U}/${W}/${CX4}/FFF.${FMT}?text=CX4&font=${FONT}"/></td>
       </tr>
       <tr>
         <td><img width="${W}" src="${U}/${W}/${CY5}/000.${FMT}?text=CY5&font=${FONT}"/></td>
         <td><img width="${W}" src="${U}/${W}/${C13}/000.${FMT}?text=C13&font=${FONT}"/></td>
-        <td><img width="${W}" src="${U}/${W}/${C05}/000.${FMT}?text=C05&font=${FONT}"/></td>
-        <td><img width="${W}" src="${U}/${W}/${CX5}/000.${FMT}?text=CX5&font=${FONT}"/></td>
+        <td><img width="${W}" src="${U}/${W}/${C05}/FFF.${FMT}?text=C05&font=${FONT}"/></td>
+        <td><img width="${W}" src="${U}/${W}/${CX5}/FFF.${FMT}?text=CX5&font=${FONT}"/></td>
       </tr>
       <tr>
         <td><img width="${W}" src="${U}/${W}/${CY6}/000.${FMT}?text=CY6&font=${FONT}"/></td>
@@ -122,23 +122,23 @@ Eg. [templates/wezterm-colors.lua](templates/wezterm-colors.lua)
       </tr>
       <tr>
         <td></td>
-        <td><img width="${W}" src="${U}/${W}/${SK7}/000.${FMT}?text=SK7&font=${FONT}"/></td>
-        <td><img width="${W}" src="${U}/${W}/${WK7}/000.${FMT}?text=WK7&font=${FONT}"/></td>
+        <td><img width="${W}" src="${U}/${W}/${SK7}/FFF.${FMT}?text=SK7&font=${FONT}"/></td>
+        <td><img width="${W}" src="${U}/${W}/${WK7}/FFF.${FMT}?text=WK7&font=${FONT}"/></td>
         <td><img width="${W}" src="${U}/${W}/${EK7}/000.${FMT}?text=EK7&font=${FONT}"/></td>
         <td></td>
       </tr>
       <tr>
         <td></td>
-        <td><img width="${W}" src="${U}/${W}/${SK6}/000.${FMT}?text=SK6&font=${FONT}"/></td>
-        <td><img width="${W}" src="${U}/${W}/${WK6}/000.${FMT}?text=WK6&font=${FONT}"/></td>
+        <td><img width="${W}" src="${U}/${W}/${SK6}/FFF.${FMT}?text=SK6&font=${FONT}"/></td>
+        <td><img width="${W}" src="${U}/${W}/${WK6}/FFF.${FMT}?text=WK6&font=${FONT}"/></td>
         <td><img width="${W}" src="${U}/${W}/${EK6}/000.${FMT}?text=EK6&font=${FONT}"/></td>
         <td></td>
       </tr>
       <tr>
         <td></td>
-        <td><img width="${W}" src="${U}/${W}/${SK5}/000.${FMT}?text=SK5&font=${FONT}"/></td>
-        <td><img width="${W}" src="${U}/${W}/${WK5}/000.${FMT}?text=WK5&font=${FONT}"/></td>
-        <td><img width="${W}" src="${U}/${W}/${EK5}/000.${FMT}?text=EK5&font=${FONT}"/></td>
+        <td><img width="${W}" src="${U}/${W}/${SK5}/FFF.${FMT}?text=SK5&font=${FONT}"/></td>
+        <td><img width="${W}" src="${U}/${W}/${WK5}/FFF.${FMT}?text=WK5&font=${FONT}"/></td>
+        <td><img width="${W}" src="${U}/${W}/${EK5}/FFF.${FMT}?text=EK5&font=${FONT}"/></td>
         <td></td>
       </tr>
       <tr>

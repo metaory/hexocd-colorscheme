@@ -10,45 +10,45 @@
     <tbody>
       <tr>
         <td></td>
-        <td><img width="96" src="https://placehold.co/96/BBDDFF/111122.webp?text=XFG&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/111122/BBDDFF.webp?text=XBG&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/BBDDFF/001122.webp?text=XFG&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/001122/BBDDFF.webp?text=XBG&font=oswald"/></td>
         <td></td>
       </tr>
       <tr>
-        <td><img width="96" src="https://placehold.co/96/BB8888/000.webp?text=CY1&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/CC6677/000.webp?text=C09&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/DD4466/000.webp?text=C01&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/EE2255/000.webp?text=CX1&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/CC8899/000.webp?text=CY1&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/DD6688/000.webp?text=C09&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/EE4477/000.webp?text=C01&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/FF2266/000.webp?text=CX1&font=oswald"/></td>
       </tr>
       <tr>
-        <td><img width="96" src="https://placehold.co/96/55DD77/000.webp?text=CY2&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/44CC55/000.webp?text=C10&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/33BB33/000.webp?text=C02&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/22AA11/000.webp?text=CX2&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/99EE88/000.webp?text=CY2&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/77DD66/000.webp?text=C10&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/55CC44/000.webp?text=C02&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/33BB22/000.webp?text=CX2&font=oswald"/></td>
       </tr>
       <tr>
-        <td><img width="96" src="https://placehold.co/96/DDEE88/000.webp?text=CY3&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/CCDD66/000.webp?text=C11&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/BBCC44/000.webp?text=C03&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/AABB22/000.webp?text=CX3&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/DDBB88/000.webp?text=CY3&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/CCCC66/000.webp?text=C11&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/BBDD44/000.webp?text=C03&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/AAEE22/000.webp?text=CX3&font=oswald"/></td>
       </tr>
       <tr>
-        <td><img width="96" src="https://placehold.co/96/66AAFF/000.webp?text=CY4&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/5588EE/000.webp?text=C12&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/4466DD/000.webp?text=C04&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/3344CC/000.webp?text=CX4&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/8899FF/000.webp?text=CY4&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/6677EE/000.webp?text=C12&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/4455DD/FFF.webp?text=C04&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/2233CC/FFF.webp?text=CX4&font=oswald"/></td>
       </tr>
       <tr>
-        <td><img width="96" src="https://placehold.co/96/88AADD/000.webp?text=CY5&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/7788CC/000.webp?text=C13&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/6666EE/000.webp?text=C05&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/5544FF/000.webp?text=CX5&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/BB99FF/000.webp?text=CY5&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/9966EE/000.webp?text=C13&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/7733DD/FFF.webp?text=C05&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/5500CC/FFF.webp?text=CX5&font=oswald"/></td>
       </tr>
       <tr>
-        <td><img width="96" src="https://placehold.co/96/66FFDD/000.webp?text=CY6&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/55DDCC/000.webp?text=C14&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/44BBBB/000.webp?text=C06&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/3399AA/000.webp?text=CX6&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/88CCDD/000.webp?text=CY6&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/66DDCC/000.webp?text=C14&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/44EEBB/000.webp?text=C06&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/22FFAA/000.webp?text=CX6&font=oswald"/></td>
       </tr>
       <tr>
         <td><img width="96" src="https://placehold.co/96/BBDDFF/000.webp?text=CY7&font=oswald"/></td>
@@ -100,9 +100,9 @@ Eg. [templates/wezterm-colors.lua](templates/wezterm-colors.lua)
     <tbody>
       <tr>
         <td></td>
-        <td><img width="96" src="https://placehold.co/96/EE2255/000000.webp?text=S&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/3344CC/FFFFFF.webp?text=W&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/22AA11/000000.webp?text=E&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/FF2266/000000.webp?text=S&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/2233CC/FFFFFF.webp?text=W&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/33BB22/000000.webp?text=E&font=oswald"/></td>
         <td></td>
       </tr>
       <hr>
@@ -122,23 +122,23 @@ Eg. [templates/wezterm-colors.lua](templates/wezterm-colors.lua)
       </tr>
       <tr>
         <td></td>
-        <td><img width="96" src="https://placehold.co/96/995577/000.webp?text=SK7&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/557799/000.webp?text=WK7&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/995577/FFF.webp?text=SK7&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/557799/FFF.webp?text=WK7&font=oswald"/></td>
         <td><img width="96" src="https://placehold.co/96/559977/000.webp?text=EK7&font=oswald"/></td>
         <td></td>
       </tr>
       <tr>
         <td></td>
-        <td><img width="96" src="https://placehold.co/96/884466/000.webp?text=SK6&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/446688/000.webp?text=WK6&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/884466/FFF.webp?text=SK6&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/446688/FFF.webp?text=WK6&font=oswald"/></td>
         <td><img width="96" src="https://placehold.co/96/448866/000.webp?text=EK6&font=oswald"/></td>
         <td></td>
       </tr>
       <tr>
         <td></td>
-        <td><img width="96" src="https://placehold.co/96/773355/000.webp?text=SK5&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/335577/000.webp?text=WK5&font=oswald"/></td>
-        <td><img width="96" src="https://placehold.co/96/337755/000.webp?text=EK5&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/773355/FFF.webp?text=SK5&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/335577/FFF.webp?text=WK5&font=oswald"/></td>
+        <td><img width="96" src="https://placehold.co/96/337755/FFF.webp?text=EK5&font=oswald"/></td>
         <td></td>
       </tr>
       <tr>
