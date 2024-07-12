@@ -21,7 +21,7 @@ export SKIM_DEFAULT_OPTIONS='--height=50%
 --bind "ctrl-t:toggle-preview-wrap"
 --bind "ctrl-a:select-all+accept"
 --bind "ctrl-d:if-query-empty(abort)+delete-char"
---color "matched_bg:#000000,matched:#EE2255,current_match:#000000,current_match_bg:#EE2255,bg+:#3344CC,fg+:#FFFFFF,info:#22AA11,prompt:#3344CC,pointer:#AABB22,header:#5544FF,border:#223344,spinner:#3399AA,query:#22AA11,marker:#AABB22"'
+--color "matched_bg:#000000,matched:#FF2266,current_match:#000000,current_match_bg:#FF2266,bg+:#2233CC,fg+:#FFFFFF,info:#33BB22,prompt:#2233CC,pointer:#AAEE22,header:#5500CC,border:#223344,spinner:#22FFAA,query:#33BB22,marker:#AAEE22"'
 
 export FZF_COMPLETION_AUTO_COMMON_PREFIX=true
 export FZF_COMPLETION_AUTO_COMMON_PREFIX_PART=true
@@ -40,10 +40,10 @@ export FZF_DEFAULT_OPTS="
 --ansi
 --no-border
 --color=gutter:#223344
---color=fg:#BBDDFF,hl:#EE2255
---color=fg+:#FFFFFF,bg+:#3344CC,hl+:#22AA11
---color=info:#22AA11,prompt:#3344CC,pointer:#EE2255
---color=marker:#22AA11,spinner:#3399AA,header:#5544FF"
+--color=fg:#BBDDFF,hl:#FF2266
+--color=fg+:#FFFFFF,bg+:#2233CC,hl+:#33BB22
+--color=info:#33BB22,prompt:#2233CC,pointer:#FF2266
+--color=marker:#33BB22,spinner:#22FFAA,header:#5500CC"
 
 export FZF_CTRL_R_OPTS="
 --preview='echo {}'

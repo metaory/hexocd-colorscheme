@@ -1,5 +1,5 @@
 # mxc: path=/home/meta/.config/mxc/seed.mx
 
-export SBG='#EE2255'
-export WBG='#3344CC'
-export EBG='#22AA11'
+export SBG='#FF2266'
+export WBG='#2233CC'
+export EBG='#33BB22'
