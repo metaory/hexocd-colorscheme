@@ -1,7 +1,7 @@
 <!-- mxc: path=./README.md -->
 
 <div align="center">
-  <img src=".github/assets/icon.png" />
+  <img src=".github/assets/icon.png" width="600px"/>
   <h1>HEXOCD</h1>
 </div>
 
