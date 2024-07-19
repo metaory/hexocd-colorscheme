@@ -1,0 +1,77 @@
+# mxc: path=/home/meta/.config/alacritty/alacritty-colors.toml
+
+[colors]
+transparent_background_colors = false
+draw_bold_text_with_bright_colors = true
+
+[colors.primary]
+foreground = '#AA99FF'
+background = '#0F122F'
+# dim_foreground    = '#dbdbdb'
+# bright_foreground = '#d9d9d9'
+
+[colors.hints.start]
+foreground = '#000000'
+background = '#3311FF'
+
+[colors.hints.end]
+foreground = '#000000'
+background = '#FF1155'
+
+[colors.selection]
+text = '#000000'
+background = '#EE3322'
+
+[colors.footer_bar]
+foreground = '#FFFFFF'
+background = '#3311FF'
+
+[colors.search.matches]
+foreground = '#000000'
+background = '#EE3322'
+
+[colors.search.focused_match]
+foreground = '#000000'
+background = '#FF1155'
+
+[colors.line_indicator]
+foreground = '#000000'
+background = '#DD5544'
+
+[colors.vi_mode_cursor]
+text = 'CellBackground'
+cursor = 'CellForeground'
+
+[colors.cursor]
+text = 'CellBackground'
+cursor = 'CellForeground'
+
+[colors.normal]
+red = '#DD4477'
+green = '#55CC44'
+yellow = '#DD5544'
+blue = '#3399DD'
+magenta = '#8855DD'
+cyan = '#44DDBB'
+black = '#223355'
+white = '#7788AA'
+
+[colors.bright]
+red = '#CC6688'
+green = '#77DD66'
+yellow = '#CC7766'
+blue = '#66AACC'
+magenta = '#AA77EE'
+cyan = '#66EECC'
+black = '#445577'
+white = '#99AACC'
+
+# [colors.dim]
+# red     = '#CC6688'
+# green   = '#77DD66'
+# yellow  = '#CC7766'
+# blue    = '#66AACC'
+# magenta = '#AA77EE'
+# cyan    = '#66EECC'
+# black   = '#445577'
+# white   = '#99AACC'

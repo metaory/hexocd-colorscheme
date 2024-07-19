@@ -1,0 +1,144 @@
+! mxc: path=/home/meta/.config/mxc/mxresources.xdefaults
+! ####################################################
+
+*.color0:               #223355
+*.color1:               #DD4477
+*.color2:               #55CC44
+*.color3:               #DD5544
+*.color4:               #3399DD
+*.color5:               #8855DD
+*.color6:               #44DDBB
+*.color7:               #7788AA
+*.color8:               #445577
+*.color9:               #CC6688
+*.color10:              #77DD66
+*.color11:              #CC7766
+*.color12:              #66AACC
+*.color13:              #AA77EE
+*.color14:              #66EECC
+*.color15:              #99AACC
+! *.color20:              #FF1155
+! *.color21:              #000000
+! *.color30:              #3311FF
+! *.color31:              #FFFFFF
+! *.color40:              #11AA00
+! *.color41:              #000000
+*.background:           #0F122F
+*.foreground:           #AA99FF
+*.selection_background: #3311FF
+*.selection_foreground: #FFFFFF
+*.cursor_text_color:    #FFFFFF
+*.cursor:               #3311FF
+
+*.cww: #FFFFFF
+*.cbb: #000000
+
+*.c00: #223355
+*.c01: #DD4477
+*.c02: #55CC44
+*.c03: #DD5544
+*.c04: #3399DD
+*.c05: #8855DD
+*.c06: #44DDBB
+*.c07: #7788AA
+*.c08: #445577
+*.c09: #CC6688
+*.c10: #77DD66
+*.c11: #CC7766
+*.c12: #66AACC
+*.c13: #AA77EE
+*.c14: #66EECC
+*.c15: #99AACC
+
+*.wbx: #3311FF
+*.wfx: #FFFFFF
+*.sbg: #FF1155
+*.sfg: #000000
+*.wbg: #3311FF
+*.wfg: #FFFFFF
+*.ebg: #11AA00
+*.efg: #000000
+*.xbg: #0F122F
+*.xfg: #AA99FF
+
+*.cc0: #111133
+*.cc1: #EE2266
+*.cc2: #33BB22
+*.cc3: #FF9900
+*.cc4: #1177EE
+*.cc5: #6633CC
+*.cc6: #22CCAA
+*.cc7: #556688
+
+*.cx0: #000011
+*.cx1: #FF1155
+*.cx2: #11AA00
+*.cx3: #EE3322
+*.cx4: #3311FF
+*.cx5: #4411BB
+*.cx6: #00BB99
+*.cx7: #334466
+
+*.cy0: #557799
+*.cy1: #BB8899
+*.cy2: #99EE88
+*.cy3: #BB9988
+*.cy4: #99BBDD
+*.cy5: #CC99FF
+*.cy6: #88FFDD
+*.cy7: #BBCCEE
+
+*.sk0: #110000
+*.sk1: #EE0011
+*.sk2: #EE1133
+*.sk3: #DD2244
+*.sk4: #EE3355
+*.sk5: #DD4466
+*.sk6: #CC5577
+*.sk7: #DD6688
+*.sk8: #EE7799
+*.sk9: #FF88AA
+
+*.wk0: #000033
+*.wk1: #001144
+*.wk2: #112255
+*.wk3: #223366
+*.wk4: #334477
+*.wk5: #445588
+*.wk6: #556699
+*.wk7: #6677AA
+*.wk8: #7788BB
+*.wk9: #8899CC
+
+*.ek0: #001122
+*.ek1: #002233
+*.ek2: #113344
+*.ek3: #224455
+*.ek4: #335566
+*.ek5: #446677
+*.ek6: #557788
+*.ek7: #668899
+*.ek8: #7799AA
+*.ek9: #88AABB
+
+! xscreensaver-auth.default.Dialog.topShadowColor:       #FF1155
+xscreensaver-auth.default.Dialog.foreground:             #DD2244
+xscreensaver-auth.default.Dialog.background:             #110000
+xscreensaver-auth.default.Dialog.button.foreground:      #CC5577
+xscreensaver-auth.default.Dialog.button.background:      #110000
+xscreensaver-auth.default.Dialog.logo.background:        #110000
+xscreensaver-auth.default.Dialog.text.foreground:        #8899CC
+xscreensaver-auth.default.Dialog.text.background:        #110000
+xscreensaver-auth.default.Dialog.error.foreground:       #FF1155
+xscreensaver-auth.default.Dialog.bottomShadowColor:      #3311FF
+xscreensaver-auth.default.Dialog.shadowWidth:            0
+xscreensaver-auth.default.Dialog.logo.width:             10
+xscreensaver-auth.default.Dialog.logo.height:            10
+xscreensaver-auth.default.Dialog.thermometer.foreground: #EE1133
+xscreensaver-auth.default.Dialog.thermometer.background: #110000
+xscreensaver-auth.default.Dialog.thermometer.width:      48
+xscreensaver-auth.default.Dialog.borderColor:            #110000
+xscreensaver-auth.default.Dialog.borderWidth:            32
+xscreensaver-auth.default.Dialog.internalPadding:        0
+
+

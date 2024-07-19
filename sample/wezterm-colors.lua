@@ -6,27 +6,27 @@ M.apply = function(cfg)
   cfg.color_scheme = "tokyonight_night"
   cfg.force_reverse_video_cursor = true
   cfg.colors = {
-    foreground = "#BBDDFF",
-    background = "#001122",
+    foreground = "#AA99FF",
+    background = "#0F122F",
     ansi = {
-      "#223344",
-      "#EE4477",
+      "#223355",
+      "#DD4477",
       "#55CC44",
-      "#BBDD44",
-      "#4455DD",
-      "#7733DD",
-      "#44EEBB",
-      "#556688",
+      "#DD5544",
+      "#3399DD",
+      "#8855DD",
+      "#44DDBB",
+      "#7788AA",
     },
     brights = {
-      "#334455",
-      "#DD6688",
+      "#445577",
+      "#CC6688",
       "#77DD66",
-      "#CCCC66",
-      "#6677EE",
-      "#9966EE",
-      "#66DDCC",
-      "#7788AA",
+      "#CC7766",
+      "#66AACC",
+      "#AA77EE",
+      "#66EECC",
+      "#99AACC",
     },
   }
 end
