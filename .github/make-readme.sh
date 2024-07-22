@@ -1,8 +1,9 @@
 #!/bin/bash
 
 export U='https://placehold.co'
-export W='160'
-export H='96'
+export W='120'
+export TW='140'
+export H='70'
 export FG='000000'
 export FMT='webp'
 export FONT='raleway'
