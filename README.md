@@ -55,7 +55,7 @@
         <td width="140"><img width="120" src="https://placehold.co/120x70/8899FF/000.webp?text=8899FF&font=raleway"/><br><div align="center"><kbd>CY5</kbd></div></td>
         <td width="140"><img width="120" src="https://placehold.co/120x70/7777EE/000.webp?text=7777EE&font=raleway"/><br><div align="center"><kbd>C13</kbd></div></td>
         <td width="140"><img width="120" src="https://placehold.co/120x70/6666DD/000.webp?text=6666DD&font=raleway"/><br><div align="center"><kbd>C05</kbd></div></td>
-        <td width="140"><img width="120" src="https://placehold.co/120x70/6666DD/000.webp?text=6666DD&font=raleway"/><br><div align="center"><kbd>C05</kbd></div></td>
+        <td width="140"><img width="120" src="https://placehold.co/120x70/5533CC/000.webp?text=5533CC&font=raleway"/><br><div align="center"><kbd>CC5</kbd></div></td>
         <td width="140"><img width="120" src="https://placehold.co/120x70/4422BB/FFF.webp?text=4422BB&font=raleway"/><br><div align="center"><kbd>CX5</kbd></div></td>
         <td width="140"><img width="120" src="https://placehold.co/120x70/3311AA/FFF.webp?text=3311AA&font=raleway"/><br><div align="center"><kbd>CZ5</kbd></div></td>
       </tr>

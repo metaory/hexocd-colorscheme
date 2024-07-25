@@ -55,7 +55,7 @@
         <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${CY5_}/000.${FMT}?text=${CY5_}&font=${FONT}"/><br><div align="center"><kbd>CY5</kbd></div></td>
         <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${C13_}/000.${FMT}?text=${C13_}&font=${FONT}"/><br><div align="center"><kbd>C13</kbd></div></td>
         <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${C05_}/000.${FMT}?text=${C05_}&font=${FONT}"/><br><div align="center"><kbd>C05</kbd></div></td>
-        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${C05_}/000.${FMT}?text=${C05_}&font=${FONT}"/><br><div align="center"><kbd>C05</kbd></div></td>
+        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${CC5_}/000.${FMT}?text=${CC5_}&font=${FONT}"/><br><div align="center"><kbd>CC5</kbd></div></td>
         <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${CX5_}/FFF.${FMT}?text=${CX5_}&font=${FONT}"/><br><div align="center"><kbd>CX5</kbd></div></td>
         <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${CZ5_}/FFF.${FMT}?text=${CZ5_}&font=${FONT}"/><br><div align="center"><kbd>CZ5</kbd></div></td>
       </tr>
