@@ -1,7 +1,6 @@
 <!-- mxc: path=./README.md -->
-<!-- https://placehold.co/140x60@2x/3311BB/2299EE.png?text=3311BB&font=raleway -->
 <div align="center">
-  <img src=".github/assets/icon.png" width="500px"/>
+  <img src=".github/assets/icon.webp" width="640"/>
   <h1>HEXOCD</h1>
 </div>
 
