@@ -161,7 +161,6 @@ The files in [sample](./sample) are populated with [confsubst](https://github.co
         <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${WK9_}/000.${FMT}?text=${WK9_}&font=${FONT}"/><br><div align="center"><kbd>WK9</kbd></div></td>
         <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${EK9_}/000.${FMT}?text=${EK9_}&font=${FONT}"/><br><div align="center"><kbd>EK9</kbd></div></td>
       </tr>
-
     </tbody>
   </table>
 </div>

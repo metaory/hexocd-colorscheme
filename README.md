@@ -161,7 +161,6 @@ The files in [sample](./sample) are populated with [confsubst](https://github.co
         <td width="140"><img width="120" src="https://placehold.co/120x70/9988FF/000.webp?text=9988FF&font=raleway"/><br><div align="center"><kbd>WK9</kbd></div></td>
         <td width="140"><img width="120" src="https://placehold.co/120x70/99FFAA/000.webp?text=99FFAA&font=raleway"/><br><div align="center"><kbd>EK9</kbd></div></td>
       </tr>
-
     </tbody>
   </table>
 </div>
