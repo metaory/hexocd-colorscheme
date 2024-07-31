@@ -117,39 +117,9 @@ The files in [sample](./sample) are populated with [confsubst](https://github.co
   <table>
     <tbody>
       <tr>
-        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${SK9_}/000.${FMT}?text=${SK9_}&font=${FONT}"/><br><div align="center"><kbd>SK9</kbd></div></td>
-        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${WK9_}/000.${FMT}?text=${WK9_}&font=${FONT}"/><br><div align="center"><kbd>WK9</kbd></div></td>
-        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${EK9_}/000.${FMT}?text=${EK9_}&font=${FONT}"/><br><div align="center"><kbd>EK9</kbd></div></td>
-      </tr>
-      <tr>
-        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${SK8_}/000.${FMT}?text=${SK8_}&font=${FONT}"/><br><div align="center"><kbd>SK8</kbd></div></td>
-        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${WK8_}/000.${FMT}?text=${WK8_}&font=${FONT}"/><br><div align="center"><kbd>WK8</kbd></div></td>
-        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${EK8_}/000.${FMT}?text=${EK8_}&font=${FONT}"/><br><div align="center"><kbd>EK8</kbd></div></td>
-      </tr>
-      <tr>
-        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${SK7_}/000.${FMT}?text=${SK7_}&font=${FONT}"/><br><div align="center"><kbd>SK7</kbd></div></td>
-        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${WK7_}/000.${FMT}?text=${WK7_}&font=${FONT}"/><br><div align="center"><kbd>WK7</kbd></div></td>
-        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${EK7_}/000.${FMT}?text=${EK7_}&font=${FONT}"/><br><div align="center"><kbd>EK7</kbd></div></td>
-      </tr>
-      <tr>
-        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${SK6_}/000.${FMT}?text=${SK6_}&font=${FONT}"/><br><div align="center"><kbd>SK6</kbd></div></td>
-        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${WK6_}/FFF.${FMT}?text=${WK6_}&font=${FONT}"/><br><div align="center"><kbd>WK6</kbd></div></td>
-        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${EK6_}/FFF.${FMT}?text=${EK6_}&font=${FONT}"/><br><div align="center"><kbd>EK6</kbd></div></td>
-      </tr>
-      <tr>
-        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${SK5_}/000.${FMT}?text=${SK5_}&font=${FONT}"/><br><div align="center"><kbd>SK5</kbd></div></td>
-        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${WK5_}/FFF.${FMT}?text=${WK5_}&font=${FONT}"/><br><div align="center"><kbd>WK5</kbd></div></td>
-        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${EK5_}/FFF.${FMT}?text=${EK5_}&font=${FONT}"/><br><div align="center"><kbd>EK5</kbd></div></td>
-      </tr>
-      <tr>
-        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${SK4_}/000.${FMT}?text=${SK4_}&font=${FONT}"/><br><div align="center"><kbd>SK4</kbd></div></td>
-        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${WK4_}/FFF.${FMT}?text=${WK4_}&font=${FONT}"/><br><div align="center"><kbd>WK4</kbd></div></td>
-        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${EK4_}/FFF.${FMT}?text=${EK4_}&font=${FONT}"/><br><div align="center"><kbd>EK4</kbd></div></td>
-      </tr>
-      <tr>
-        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${SK3_}/000.${FMT}?text=${SK3_}&font=${FONT}"/><br><div align="center"><kbd>SK3</kbd></div></td>
-        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${WK3_}/FFF.${FMT}?text=${WK3_}&font=${FONT}"/><br><div align="center"><kbd>WK3</kbd></div></td>
-        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${EK3_}/FFF.${FMT}?text=${EK3_}&font=${FONT}"/><br><div align="center"><kbd>EK3</kbd></div></td>
+        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${SK1_}/000.${FMT}?text=${SK1_}&font=${FONT}"/><br><div align="center"><kbd>SK1</kbd></div></td>
+        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${WK1_}/FFF.${FMT}?text=${WK1_}&font=${FONT}"/><br><div align="center"><kbd>WK1</kbd></div></td>
+        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${EK1_}/FFF.${FMT}?text=${EK1_}&font=${FONT}"/><br><div align="center"><kbd>EK1</kbd></div></td>
       </tr>
       <tr>
         <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${SK2_}/000.${FMT}?text=${SK2_}&font=${FONT}"/><br><div align="center"><kbd>SK2</kbd></div></td>
@@ -157,10 +127,41 @@ The files in [sample](./sample) are populated with [confsubst](https://github.co
         <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${EK2_}/FFF.${FMT}?text=${EK2_}&font=${FONT}"/><br><div align="center"><kbd>EK2</kbd></div></td>
       </tr>
       <tr>
-        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${SK1_}/000.${FMT}?text=${SK1_}&font=${FONT}"/><br><div align="center"><kbd>SK1</kbd></div></td>
-        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${WK1_}/FFF.${FMT}?text=${WK1_}&font=${FONT}"/><br><div align="center"><kbd>WK1</kbd></div></td>
-        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${EK1_}/FFF.${FMT}?text=${EK1_}&font=${FONT}"/><br><div align="center"><kbd>EK1</kbd></div></td>
+        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${SK3_}/000.${FMT}?text=${SK3_}&font=${FONT}"/><br><div align="center"><kbd>SK3</kbd></div></td>
+        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${WK3_}/FFF.${FMT}?text=${WK3_}&font=${FONT}"/><br><div align="center"><kbd>WK3</kbd></div></td>
+        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${EK3_}/FFF.${FMT}?text=${EK3_}&font=${FONT}"/><br><div align="center"><kbd>EK3</kbd></div></td>
       </tr>
+      <tr>
+        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${SK4_}/000.${FMT}?text=${SK4_}&font=${FONT}"/><br><div align="center"><kbd>SK4</kbd></div></td>
+        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${WK4_}/FFF.${FMT}?text=${WK4_}&font=${FONT}"/><br><div align="center"><kbd>WK4</kbd></div></td>
+        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${EK4_}/FFF.${FMT}?text=${EK4_}&font=${FONT}"/><br><div align="center"><kbd>EK4</kbd></div></td>
+      </tr>
+      <tr>
+        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${SK5_}/000.${FMT}?text=${SK5_}&font=${FONT}"/><br><div align="center"><kbd>SK5</kbd></div></td>
+        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${WK5_}/FFF.${FMT}?text=${WK5_}&font=${FONT}"/><br><div align="center"><kbd>WK5</kbd></div></td>
+        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${EK5_}/FFF.${FMT}?text=${EK5_}&font=${FONT}"/><br><div align="center"><kbd>EK5</kbd></div></td>
+      </tr>
+      <tr>
+        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${SK6_}/000.${FMT}?text=${SK6_}&font=${FONT}"/><br><div align="center"><kbd>SK6</kbd></div></td>
+        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${WK6_}/FFF.${FMT}?text=${WK6_}&font=${FONT}"/><br><div align="center"><kbd>WK6</kbd></div></td>
+        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${EK6_}/FFF.${FMT}?text=${EK6_}&font=${FONT}"/><br><div align="center"><kbd>EK6</kbd></div></td>
+      </tr>
+      <tr>
+        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${SK7_}/000.${FMT}?text=${SK7_}&font=${FONT}"/><br><div align="center"><kbd>SK7</kbd></div></td>
+        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${WK7_}/000.${FMT}?text=${WK7_}&font=${FONT}"/><br><div align="center"><kbd>WK7</kbd></div></td>
+        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${EK7_}/000.${FMT}?text=${EK7_}&font=${FONT}"/><br><div align="center"><kbd>EK7</kbd></div></td>
+      </tr>
+      <tr>
+        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${SK8_}/000.${FMT}?text=${SK8_}&font=${FONT}"/><br><div align="center"><kbd>SK8</kbd></div></td>
+        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${WK8_}/000.${FMT}?text=${WK8_}&font=${FONT}"/><br><div align="center"><kbd>WK8</kbd></div></td>
+        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${EK8_}/000.${FMT}?text=${EK8_}&font=${FONT}"/><br><div align="center"><kbd>EK8</kbd></div></td>
+      </tr>
+      <tr>
+        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${SK9_}/000.${FMT}?text=${SK9_}&font=${FONT}"/><br><div align="center"><kbd>SK9</kbd></div></td>
+        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${WK9_}/000.${FMT}?text=${WK9_}&font=${FONT}"/><br><div align="center"><kbd>WK9</kbd></div></td>
+        <td width="${TW}"><img width="${W}" src="${U}/${W}x${H}/${EK9_}/000.${FMT}?text=${EK9_}&font=${FONT}"/><br><div align="center"><kbd>EK9</kbd></div></td>
+      </tr>
+
     </tbody>
   </table>
 </div>
