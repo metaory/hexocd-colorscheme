@@ -46,7 +46,7 @@
         <td width="120"><img width="140" src="https://placehold.co/140x60@2x/44BBFF/000.webp?text=44BBFF&font=raleway"/><br><div align="center"><kbd>CY4</kbd></div></td>
         <td width="120"><img width="140" src="https://placehold.co/140x60@2x/2299EE/000.webp?text=2299EE&font=raleway"/><br><div align="center"><kbd>C12</kbd></div></td>
         <td width="120"><img width="140" src="https://placehold.co/140x60@2x/1177DD/000.webp?text=1177DD&font=raleway"/><br><div align="center"><kbd>C04</kbd></div></td>
-        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/2244CC/000.webp?text=2244CC&font=raleway"/><br><div align="center"><kbd>CC4</kbd></div></td>
+        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/2244CC/FFF.webp?text=2244CC&font=raleway"/><br><div align="center"><kbd>CC4</kbd></div></td>
         <td width="120"><img width="140" src="https://placehold.co/140x60@2x/3311BB/FFF.webp?text=3311BB&font=raleway"/><br><div align="center"><kbd>CX4</kbd></div></td>
         <td width="120"><img width="140" src="https://placehold.co/140x60@2x/3300AA/FFF.webp?text=3300AA&font=raleway"/><br><div align="center"><kbd>CZ4</kbd></div></td>
       </tr>
@@ -69,10 +69,10 @@
       <tr>
         <td width="120"><img width="140" src="https://placehold.co/140x60@2x/BBCCFF/000.webp?text=BBCCFF&font=raleway"/><br><div align="center"><kbd>CY7</kbd></div></td>
         <td width="120"><img width="140" src="https://placehold.co/140x60@2x/AABBFF/000.webp?text=AABBFF&font=raleway"/><br><div align="center"><kbd>C15</kbd></div></td>
-        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/9999EE/FFF.webp?text=9999EE&font=raleway"/><br><div align="center"><kbd>C07</kbd></div></td>
-        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/8888EE/FFF.webp?text=8888EE&font=raleway"/><br><div align="center"><kbd>CC7</kbd></div></td>
-        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/8877DD/FFF.webp?text=8877DD&font=raleway"/><br><div align="center"><kbd>CX7</kbd></div></td>
-        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/7766CC/FFF.webp?text=7766CC&font=raleway"/><br><div align="center"><kbd>CZ7</kbd></div></td>
+        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/9999EE/000.webp?text=9999EE&font=raleway"/><br><div align="center"><kbd>C07</kbd></div></td>
+        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/8888EE/000.webp?text=8888EE&font=raleway"/><br><div align="center"><kbd>CC7</kbd></div></td>
+        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/8877DD/000.webp?text=8877DD&font=raleway"/><br><div align="center"><kbd>CX7</kbd></div></td>
+        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/7766CC/000.webp?text=7766CC&font=raleway"/><br><div align="center"><kbd>CZ7</kbd></div></td>
       </tr>
       <tr>
         <td width="120"><img width="140" src="https://placehold.co/140x60@2x/6655BB/FFF.webp?text=6655BB&font=raleway"/><br><div align="center"><kbd>CY0</kbd></div></td>
@@ -115,6 +115,11 @@ The files in [sample](./sample) are populated with [confsubst](https://github.co
 <div align="center">
   <table>
     <tbody>
+      <tr>
+        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/DD1144/000.webp?text=DD1144&font=raleway"/><br><div align="center"><kbd>SK1</kbd></div></td>
+        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/111144/FFF.webp?text=111144&font=raleway"/><br><div align="center"><kbd>WK1</kbd></div></td>
+        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/002211/FFF.webp?text=002211&font=raleway"/><br><div align="center"><kbd>EK1</kbd></div></td>
+      </tr>
       <tr>
         <td width="120"><img width="140" src="https://placehold.co/140x60@2x/DD2255/000.webp?text=DD2255&font=raleway"/><br><div align="center"><kbd>SK1</kbd></div></td>
         <td width="120"><img width="140" src="https://placehold.co/140x60@2x/221155/FFF.webp?text=221155&font=raleway"/><br><div align="center"><kbd>WK1</kbd></div></td>
