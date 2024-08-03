@@ -67,19 +67,19 @@
         <td width="120"><img width="140" src="https://placehold.co/140x60@2x/00AA88/000.webp?text=00AA88&font=raleway"/><br><div align="center"><kbd>CZ6</kbd></div></td>
       </tr>
       <tr>
-        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/6655BB/000.webp?text=6655BB&font=raleway"/><br><div align="center"><kbd>CY7</kbd></div></td>
-        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/5544AA/000.webp?text=5544AA&font=raleway"/><br><div align="center"><kbd>C15</kbd></div></td>
-        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/443399/FFF.webp?text=443399&font=raleway"/><br><div align="center"><kbd>C07</kbd></div></td>
-        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/332288/FFF.webp?text=332288&font=raleway"/><br><div align="center"><kbd>CC7</kbd></div></td>
-        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/221177/FFF.webp?text=221177&font=raleway"/><br><div align="center"><kbd>CX7</kbd></div></td>
-        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/221166/FFF.webp?text=221166&font=raleway"/><br><div align="center"><kbd>CZ7</kbd></div></td>
+        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/BBCCFF/000.webp?text=BBCCFF&font=raleway"/><br><div align="center"><kbd>CY7</kbd></div></td>
+        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/AABBFF/000.webp?text=AABBFF&font=raleway"/><br><div align="center"><kbd>C15</kbd></div></td>
+        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/9999EE/FFF.webp?text=9999EE&font=raleway"/><br><div align="center"><kbd>C07</kbd></div></td>
+        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/8888EE/FFF.webp?text=8888EE&font=raleway"/><br><div align="center"><kbd>CC7</kbd></div></td>
+        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/8877DD/FFF.webp?text=8877DD&font=raleway"/><br><div align="center"><kbd>CX7</kbd></div></td>
+        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/7766CC/FFF.webp?text=7766CC&font=raleway"/><br><div align="center"><kbd>CZ7</kbd></div></td>
       </tr>
       <tr>
-        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/333388/FFF.webp?text=333388&font=raleway"/><br><div align="center"><kbd>CY0</kbd></div></td>
-        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/333377/FFF.webp?text=333377&font=raleway"/><br><div align="center"><kbd>C08</kbd></div></td>
-        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/332266/FFF.webp?text=332266&font=raleway"/><br><div align="center"><kbd>C00</kbd></div></td>
-        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/222255/FFF.webp?text=222255&font=raleway"/><br><div align="center"><kbd>CC0</kbd></div></td>
-        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/221144/FFF.webp?text=221144&font=raleway"/><br><div align="center"><kbd>CX0</kbd></div></td>
+        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/6655BB/FFF.webp?text=6655BB&font=raleway"/><br><div align="center"><kbd>CY0</kbd></div></td>
+        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/5544AA/FFF.webp?text=5544AA&font=raleway"/><br><div align="center"><kbd>C08</kbd></div></td>
+        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/443388/FFF.webp?text=443388&font=raleway"/><br><div align="center"><kbd>C00</kbd></div></td>
+        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/332266/FFF.webp?text=332266&font=raleway"/><br><div align="center"><kbd>CC0</kbd></div></td>
+        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/221155/FFF.webp?text=221155&font=raleway"/><br><div align="center"><kbd>CX0</kbd></div></td>
         <td width="120"><img width="140" src="https://placehold.co/140x60@2x/111133/FFF.webp?text=111133&font=raleway"/><br><div align="center"><kbd>CZ0</kbd></div></td>
       </tr>
     </tbody>
@@ -117,47 +117,47 @@ The files in [sample](./sample) are populated with [confsubst](https://github.co
     <tbody>
       <tr>
         <td width="120"><img width="140" src="https://placehold.co/140x60@2x/DD2255/000.webp?text=DD2255&font=raleway"/><br><div align="center"><kbd>SK1</kbd></div></td>
-        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/111144/FFF.webp?text=111144&font=raleway"/><br><div align="center"><kbd>WK1</kbd></div></td>
+        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/221155/FFF.webp?text=221155&font=raleway"/><br><div align="center"><kbd>WK1</kbd></div></td>
         <td width="120"><img width="140" src="https://placehold.co/140x60@2x/114422/FFF.webp?text=114422&font=raleway"/><br><div align="center"><kbd>EK1</kbd></div></td>
       </tr>
       <tr>
         <td width="120"><img width="140" src="https://placehold.co/140x60@2x/DD3366/000.webp?text=DD3366&font=raleway"/><br><div align="center"><kbd>SK2</kbd></div></td>
-        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/221166/FFF.webp?text=221166&font=raleway"/><br><div align="center"><kbd>WK2</kbd></div></td>
+        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/332266/FFF.webp?text=332266&font=raleway"/><br><div align="center"><kbd>WK2</kbd></div></td>
         <td width="120"><img width="140" src="https://placehold.co/140x60@2x/226633/FFF.webp?text=226633&font=raleway"/><br><div align="center"><kbd>EK2</kbd></div></td>
       </tr>
       <tr>
         <td width="120"><img width="140" src="https://placehold.co/140x60@2x/EE4477/000.webp?text=EE4477&font=raleway"/><br><div align="center"><kbd>SK3</kbd></div></td>
-        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/332288/FFF.webp?text=332288&font=raleway"/><br><div align="center"><kbd>WK3</kbd></div></td>
+        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/443388/FFF.webp?text=443388&font=raleway"/><br><div align="center"><kbd>WK3</kbd></div></td>
         <td width="120"><img width="140" src="https://placehold.co/140x60@2x/339944/FFF.webp?text=339944&font=raleway"/><br><div align="center"><kbd>EK3</kbd></div></td>
       </tr>
       <tr>
         <td width="120"><img width="140" src="https://placehold.co/140x60@2x/EE5588/000.webp?text=EE5588&font=raleway"/><br><div align="center"><kbd>SK4</kbd></div></td>
-        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/4433AA/FFF.webp?text=4433AA&font=raleway"/><br><div align="center"><kbd>WK4</kbd></div></td>
+        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/5544AA/FFF.webp?text=5544AA&font=raleway"/><br><div align="center"><kbd>WK4</kbd></div></td>
         <td width="120"><img width="140" src="https://placehold.co/140x60@2x/44AA55/FFF.webp?text=44AA55&font=raleway"/><br><div align="center"><kbd>EK4</kbd></div></td>
       </tr>
       <tr>
         <td width="120"><img width="140" src="https://placehold.co/140x60@2x/EE6699/000.webp?text=EE6699&font=raleway"/><br><div align="center"><kbd>SK5</kbd></div></td>
-        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/5544BB/FFF.webp?text=5544BB&font=raleway"/><br><div align="center"><kbd>WK5</kbd></div></td>
+        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/6655BB/FFF.webp?text=6655BB&font=raleway"/><br><div align="center"><kbd>WK5</kbd></div></td>
         <td width="120"><img width="140" src="https://placehold.co/140x60@2x/55BB66/FFF.webp?text=55BB66&font=raleway"/><br><div align="center"><kbd>EK5</kbd></div></td>
       </tr>
       <tr>
         <td width="120"><img width="140" src="https://placehold.co/140x60@2x/EE77AA/000.webp?text=EE77AA&font=raleway"/><br><div align="center"><kbd>SK6</kbd></div></td>
-        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/6655CC/FFF.webp?text=6655CC&font=raleway"/><br><div align="center"><kbd>WK6</kbd></div></td>
+        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/7766CC/FFF.webp?text=7766CC&font=raleway"/><br><div align="center"><kbd>WK6</kbd></div></td>
         <td width="120"><img width="140" src="https://placehold.co/140x60@2x/66CC77/FFF.webp?text=66CC77&font=raleway"/><br><div align="center"><kbd>EK6</kbd></div></td>
       </tr>
       <tr>
         <td width="120"><img width="140" src="https://placehold.co/140x60@2x/FF88BB/000.webp?text=FF88BB&font=raleway"/><br><div align="center"><kbd>SK7</kbd></div></td>
-        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/7766DD/000.webp?text=7766DD&font=raleway"/><br><div align="center"><kbd>WK7</kbd></div></td>
+        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/8877DD/000.webp?text=8877DD&font=raleway"/><br><div align="center"><kbd>WK7</kbd></div></td>
         <td width="120"><img width="140" src="https://placehold.co/140x60@2x/77DD88/000.webp?text=77DD88&font=raleway"/><br><div align="center"><kbd>EK7</kbd></div></td>
       </tr>
       <tr>
         <td width="120"><img width="140" src="https://placehold.co/140x60@2x/FF99CC/000.webp?text=FF99CC&font=raleway"/><br><div align="center"><kbd>SK8</kbd></div></td>
-        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/8877EE/000.webp?text=8877EE&font=raleway"/><br><div align="center"><kbd>WK8</kbd></div></td>
+        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/9999EE/000.webp?text=9999EE&font=raleway"/><br><div align="center"><kbd>WK8</kbd></div></td>
         <td width="120"><img width="140" src="https://placehold.co/140x60@2x/88EE99/000.webp?text=88EE99&font=raleway"/><br><div align="center"><kbd>EK8</kbd></div></td>
       </tr>
       <tr>
         <td width="120"><img width="140" src="https://placehold.co/140x60@2x/FFAADD/000.webp?text=FFAADD&font=raleway"/><br><div align="center"><kbd>SK9</kbd></div></td>
-        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/9988FF/000.webp?text=9988FF&font=raleway"/><br><div align="center"><kbd>WK9</kbd></div></td>
+        <td width="120"><img width="140" src="https://placehold.co/140x60@2x/AABBFF/000.webp?text=AABBFF&font=raleway"/><br><div align="center"><kbd>WK9</kbd></div></td>
         <td width="120"><img width="140" src="https://placehold.co/140x60@2x/99FFAA/000.webp?text=99FFAA&font=raleway"/><br><div align="center"><kbd>EK9</kbd></div></td>
       </tr>
     </tbody>
