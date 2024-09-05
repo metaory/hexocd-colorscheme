@@ -104,7 +104,7 @@ jq '[["div", { "align": "center" },
 	["h2", "Related projects"],
 	["ul",map(
       ["li",
-        ["a", {href:("github.com/metaory/"+.)},.],
+        ["a", {href:("https://github.com/metaory/"+.)},.],
         ["blockquote", "${"+(.|sub("\\.";"_"))+"}"]
       ])[]
   ],

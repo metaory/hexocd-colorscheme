@@ -1039,7 +1039,7 @@
 </h2>
 <ul>
 	<li>
-		<a href="github.com/metaory/markup.json">
+		<a href="https://github.com/metaory/markup.json">
 			markup.json
 		</a>
 		<blockquote>
@@ -1047,7 +1047,7 @@
 		</blockquote>
 	</li>
 	<li>
-		<a href="github.com/metaory/confsubst">
+		<a href="https://github.com/metaory/confsubst">
 			confsubst
 		</a>
 		<blockquote>
