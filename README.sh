@@ -32,14 +32,7 @@ markup <<EOF >>README.md
     ],
     ["h1", "HE̶̶X̶̶OCD" ]
   ],
-  "",
-  ["h3", "Templates"],
-  "Refer to",
-  ["a", { "href": "${GH}/confsubst" }, "confsubst"],
-  "for template usages",
-  ["hr"],
-  "Templates can be found in",
-  ["a", { "href": "${GH}/hexocd-colorscheme/tree/master/templates" }, "templates"]
+  ""
 ]
 EOF
 
@@ -158,7 +151,13 @@ jq -f <(
   ],
   "",
   ["hr"],
-  ["h2", "Related projects"],
+  ["h3", "Templates"],
+  "Refer to",
+  ["a", { "href": "${GH}/confsubst" }, "confsubst"],
+  "for templates in",
+  ["a", { "href": "${GH}/hexocd-colorscheme/tree/master/templates" }, "./templates"],
+  ["hr"],
+  ["h3", "Related projects"],
   [
     "ul",
     map([

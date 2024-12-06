@@ -15,23 +15,6 @@
   </h1>
 </div>
 
-<h3>
-  Templates
-</h3>
-Refer to
-<a
-  href="https://github.com/metaory/confsubst"
->
-  confsubst
-</a>
-for template usages
-<hr />
-Templates can be found in
-<a
-  href="https://github.com/metaory/hexocd-colorscheme/tree/master/templates"
->
-  templates
-</a>
 <div
   align="center"
 >
@@ -1595,9 +1578,25 @@ Templates can be found in
 </div>
 
 <hr />
-<h2>
+<h3>
+  Templates
+</h3>
+Refer to
+<a
+  href="https://github.com/metaory/confsubst"
+>
+  confsubst
+</a>
+for templates in
+<a
+  href="https://github.com/metaory/hexocd-colorscheme/tree/master/templates"
+>
+  ./templates
+</a>
+<hr />
+<h3>
   Related projects
-</h2>
+</h3>
 <ul>
   <li>
     <a
