@@ -8,13 +8,30 @@
 >
   <img
     src=".github/assets/icon.webp"
-    height="140"
+    height="120"
    />
   <h1>
     HE̶̶X̶̶OCD
   </h1>
 </div>
 
+<h3>
+  Templates
+</h3>
+Refer to
+<a
+  href="https://github.com/metaory/confsubst"
+>
+  confsubst
+</a>
+for template usages
+<hr />
+Templates can be found in
+<a
+  href="https://github.com/metaory/hexocd-colorscheme/tree/master/templates"
+>
+  templates
+</a>
 <div
   align="center"
 >
@@ -23,8 +40,8 @@
       <tr>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/44BBFF/000.webp?text=44BBFF&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/44BBFF/000.webp?text=44BBFF&font=raleway&"
            />
           <br />
           <div
@@ -37,8 +54,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/221133/000.webp?text=221133&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/220033/000.webp?text=220033&font=raleway&"
            />
           <br />
           <div
@@ -62,8 +79,8 @@
       <tr>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/FF5599/000.webp?text=FF5599&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/FF5599/000.webp?text=FF5599&font=raleway&"
            />
           <br />
           <div
@@ -76,8 +93,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/FF4488/000.webp?text=FF4488&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/FF4488/000.webp?text=FF4488&font=raleway&"
            />
           <br />
           <div
@@ -90,8 +107,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/EE3377/000.webp?text=EE3377&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/EE3377/000.webp?text=EE3377&font=raleway&"
            />
           <br />
           <div
@@ -104,8 +121,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/EE2266/000.webp?text=EE2266&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/EE2266/000.webp?text=EE2266&font=raleway&"
            />
           <br />
           <div
@@ -118,8 +135,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/DD1155/000.webp?text=DD1155&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/DD1155/000.webp?text=DD1155&font=raleway&"
            />
           <br />
           <div
@@ -132,8 +149,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/DD0044/000.webp?text=DD0044&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/DD0044/000.webp?text=DD0044&font=raleway&"
            />
           <br />
           <div
@@ -148,8 +165,8 @@
       <tr>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/55EE77/000.webp?text=55EE77&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/55EE77/000.webp?text=55EE77&font=raleway&"
            />
           <br />
           <div
@@ -162,8 +179,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/44DD66/000.webp?text=44DD66&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/44DD66/000.webp?text=44DD66&font=raleway&"
            />
           <br />
           <div
@@ -176,8 +193,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/33CC55/000.webp?text=33CC55&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/33CC55/000.webp?text=33CC55&font=raleway&"
            />
           <br />
           <div
@@ -190,8 +207,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/22BB44/000.webp?text=22BB44&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/22BB44/000.webp?text=22BB44&font=raleway&"
            />
           <br />
           <div
@@ -204,8 +221,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/11AA33/000.webp?text=11AA33&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/11AA33/000.webp?text=11AA33&font=raleway&"
            />
           <br />
           <div
@@ -218,8 +235,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/009922/000.webp?text=009922&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/009922/000.webp?text=009922&font=raleway&"
            />
           <br />
           <div
@@ -234,8 +251,8 @@
       <tr>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/CCEE44/000.webp?text=CCEE44&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/CCEE44/000.webp?text=CCEE44&font=raleway&"
            />
           <br />
           <div
@@ -248,8 +265,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/BBDD33/000.webp?text=BBDD33&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/BBDD33/000.webp?text=BBDD33&font=raleway&"
            />
           <br />
           <div
@@ -262,8 +279,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/AACC22/000.webp?text=AACC22&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/AACC22/000.webp?text=AACC22&font=raleway&"
            />
           <br />
           <div
@@ -276,8 +293,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/99BB11/000.webp?text=99BB11&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/99BB11/000.webp?text=99BB11&font=raleway&"
            />
           <br />
           <div
@@ -290,8 +307,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/88AA00/000.webp?text=88AA00&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/88AA00/000.webp?text=88AA00&font=raleway&"
            />
           <br />
           <div
@@ -304,8 +321,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/779900/000.webp?text=779900&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/779900/000.webp?text=779900&font=raleway&"
            />
           <br />
           <div
@@ -320,8 +337,8 @@
       <tr>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/55BBEE/000.webp?text=55BBEE&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/44DDFF/000.webp?text=44DDFF&font=raleway&"
            />
           <br />
           <div
@@ -334,8 +351,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/2288DD/000.webp?text=2288DD&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/44BBEE/000.webp?text=44BBEE&font=raleway&"
            />
           <br />
           <div
@@ -348,8 +365,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/1144CC/000.webp?text=1144CC&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/4433DD/000.webp?text=4433DD&font=raleway&"
            />
           <br />
           <div
@@ -362,8 +379,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/3322BB/000.webp?text=3322BB&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/4422CC/000.webp?text=4422CC&font=raleway&"
            />
           <br />
           <div
@@ -376,8 +393,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/3311AA/000.webp?text=3311AA&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/4411BB/000.webp?text=4411BB&font=raleway&"
            />
           <br />
           <div
@@ -390,8 +407,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/220099/000.webp?text=220099&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/4400AA/000.webp?text=4400AA&font=raleway&"
            />
           <br />
           <div
@@ -406,8 +423,8 @@
       <tr>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/BB55EE/000.webp?text=BB55EE&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/CC55BB/000.webp?text=CC55BB&font=raleway&"
            />
           <br />
           <div
@@ -420,8 +437,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/9944DD/000.webp?text=9944DD&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/AA44BB/000.webp?text=AA44BB&font=raleway&"
            />
           <br />
           <div
@@ -434,8 +451,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/7733CC/000.webp?text=7733CC&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/7733BB/000.webp?text=7733BB&font=raleway&"
            />
           <br />
           <div
@@ -448,8 +465,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/6622BB/000.webp?text=6622BB&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/6622BB/000.webp?text=6622BB&font=raleway&"
            />
           <br />
           <div
@@ -462,8 +479,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/5511AA/000.webp?text=5511AA&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/5511AA/000.webp?text=5511AA&font=raleway&"
            />
           <br />
           <div
@@ -476,8 +493,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/440099/000.webp?text=440099&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/5500AA/000.webp?text=5500AA&font=raleway&"
            />
           <br />
           <div
@@ -492,8 +509,8 @@
       <tr>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/55FFDD/000.webp?text=55FFDD&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/55FFDD/000.webp?text=55FFDD&font=raleway&"
            />
           <br />
           <div
@@ -506,8 +523,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/44EECC/000.webp?text=44EECC&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/44EECC/000.webp?text=44EECC&font=raleway&"
            />
           <br />
           <div
@@ -520,8 +537,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/33DDBB/000.webp?text=33DDBB&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/33DDBB/000.webp?text=33DDBB&font=raleway&"
            />
           <br />
           <div
@@ -534,8 +551,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/22CCAA/000.webp?text=22CCAA&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/22CCAA/000.webp?text=22CCAA&font=raleway&"
            />
           <br />
           <div
@@ -548,8 +565,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/11BB99/000.webp?text=11BB99&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/11BB99/000.webp?text=11BB99&font=raleway&"
            />
           <br />
           <div
@@ -562,8 +579,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/00AA88/000.webp?text=00AA88&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/00AA88/000.webp?text=00AA88&font=raleway&"
            />
           <br />
           <div
@@ -578,8 +595,8 @@
       <tr>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/CCBBEE/000.webp?text=CCBBEE&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/CCBBEE/000.webp?text=CCBBEE&font=raleway&"
            />
           <br />
           <div
@@ -592,8 +609,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/BBAAEE/000.webp?text=BBAAEE&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/BBAAEE/000.webp?text=BBAAEE&font=raleway&"
            />
           <br />
           <div
@@ -606,8 +623,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/AA99EE/000.webp?text=AA99EE&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/AA99EE/000.webp?text=AA99EE&font=raleway&"
            />
           <br />
           <div
@@ -620,8 +637,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/9988DD/000.webp?text=9988DD&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/9988DD/000.webp?text=9988DD&font=raleway&"
            />
           <br />
           <div
@@ -634,8 +651,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/8877DD/000.webp?text=8877DD&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/8877DD/000.webp?text=8877DD&font=raleway&"
            />
           <br />
           <div
@@ -648,8 +665,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/7766DD/000.webp?text=7766DD&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/7766DD/000.webp?text=7766DD&font=raleway&"
            />
           <br />
           <div
@@ -664,8 +681,8 @@
       <tr>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/665588/000.webp?text=665588&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/440088/000.webp?text=440088&font=raleway&"
            />
           <br />
           <div
@@ -678,8 +695,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/554477/000.webp?text=554477&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/440077/000.webp?text=440077&font=raleway&"
            />
           <br />
           <div
@@ -692,8 +709,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/443366/000.webp?text=443366&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/330066/000.webp?text=330066&font=raleway&"
            />
           <br />
           <div
@@ -706,8 +723,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/332255/000.webp?text=332255&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/330055/000.webp?text=330055&font=raleway&"
            />
           <br />
           <div
@@ -720,8 +737,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/221144/000.webp?text=221144&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/220044/000.webp?text=220044&font=raleway&"
            />
           <br />
           <div
@@ -734,8 +751,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/110033/000.webp?text=110033&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/220033/000.webp?text=220033&font=raleway&"
            />
           <br />
           <div
@@ -771,8 +788,8 @@
       <tr>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/221133/000.webp?text=221133&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/220033/000.webp?text=220033&font=raleway&"
            />
           <br />
           <div
@@ -785,8 +802,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/DD3366/000.webp?text=DD3366&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/DD1166/000.webp?text=DD1166&font=raleway&"
            />
           <br />
           <div
@@ -799,8 +816,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/3311AA/000.webp?text=3311AA&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/4411BB/000.webp?text=4411BB&font=raleway&"
            />
           <br />
           <div
@@ -813,8 +830,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/009911/000.webp?text=009911&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/229911/000.webp?text=229911&font=raleway&"
            />
           <br />
           <div
@@ -827,8 +844,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/221133/000.webp?text=221133&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/220033/000.webp?text=220033&font=raleway&"
            />
           <br />
           <div
@@ -843,8 +860,8 @@
       <tr>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/FF4488/000.webp?text=FF4488&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/FF4488/000.webp?text=FF4488&font=raleway&"
            />
           <br />
           <div
@@ -857,8 +874,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/220033/000.webp?text=220033&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/1A002A/000.webp?text=1A002A&font=raleway&"
            />
           <br />
           <div
@@ -871,8 +888,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/0A001F/000.webp?text=0A001F&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/110022/000.webp?text=110022&font=raleway&"
            />
           <br />
           <div
@@ -885,8 +902,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/003322/000.webp?text=003322&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/003322/000.webp?text=003322&font=raleway&"
            />
           <br />
           <div
@@ -899,8 +916,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/BB44AA/000.webp?text=BB44AA&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/BB44AA/000.webp?text=BB44AA&font=raleway&"
            />
           <br />
           <div
@@ -915,8 +932,8 @@
       <tr>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/EE4499/000.webp?text=EE4499&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/EE4499/000.webp?text=EE4499&font=raleway&"
            />
           <br />
           <div
@@ -929,8 +946,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/331144/000.webp?text=331144&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/220033/000.webp?text=220033&font=raleway&"
            />
           <br />
           <div
@@ -943,8 +960,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/220044/000.webp?text=220044&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/220044/000.webp?text=220044&font=raleway&"
            />
           <br />
           <div
@@ -957,8 +974,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/114433/000.webp?text=114433&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/114433/000.webp?text=114433&font=raleway&"
            />
           <br />
           <div
@@ -971,8 +988,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/BB55BB/000.webp?text=BB55BB&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/BB55BB/000.webp?text=BB55BB&font=raleway&"
            />
           <br />
           <div
@@ -987,8 +1004,8 @@
       <tr>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/DD44AA/000.webp?text=DD44AA&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/DD44AA/000.webp?text=DD44AA&font=raleway&"
            />
           <br />
           <div
@@ -1001,8 +1018,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/441155/000.webp?text=441155&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/331144/000.webp?text=331144&font=raleway&"
            />
           <br />
           <div
@@ -1015,8 +1032,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/331166/000.webp?text=331166&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/331166/000.webp?text=331166&font=raleway&"
            />
           <br />
           <div
@@ -1029,8 +1046,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/226644/000.webp?text=226644&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/226644/000.webp?text=226644&font=raleway&"
            />
           <br />
           <div
@@ -1043,8 +1060,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/CC66CC/000.webp?text=CC66CC&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/CC66CC/000.webp?text=CC66CC&font=raleway&"
            />
           <br />
           <div
@@ -1059,8 +1076,8 @@
       <tr>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/CC44BB/000.webp?text=CC44BB&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/CC44BB/000.webp?text=CC44BB&font=raleway&"
            />
           <br />
           <div
@@ -1073,8 +1090,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/442266/000.webp?text=442266&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/441A55/000.webp?text=441A55&font=raleway&"
            />
           <br />
           <div
@@ -1087,8 +1104,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/442288/000.webp?text=442288&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/441A88/000.webp?text=441A88&font=raleway&"
            />
           <br />
           <div
@@ -1101,8 +1118,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/339955/000.webp?text=339955&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/339955/000.webp?text=339955&font=raleway&"
            />
           <br />
           <div
@@ -1115,8 +1132,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/CC77DD/000.webp?text=CC77DD&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/CC77DD/000.webp?text=CC77DD&font=raleway&"
            />
           <br />
           <div
@@ -1131,8 +1148,8 @@
       <tr>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/BB44CC/000.webp?text=BB44CC&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/BB44CC/000.webp?text=BB44CC&font=raleway&"
            />
           <br />
           <div
@@ -1145,8 +1162,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/663388/000.webp?text=663388&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/552266/000.webp?text=552266&font=raleway&"
            />
           <br />
           <div
@@ -1159,8 +1176,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/5533AA/000.webp?text=5533AA&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/5522AA/000.webp?text=5522AA&font=raleway&"
            />
           <br />
           <div
@@ -1173,8 +1190,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/44AA66/000.webp?text=44AA66&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/44AA66/000.webp?text=44AA66&font=raleway&"
            />
           <br />
           <div
@@ -1187,8 +1204,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/DD88DD/000.webp?text=DD88DD&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/DD88DD/000.webp?text=DD88DD&font=raleway&"
            />
           <br />
           <div
@@ -1203,8 +1220,8 @@
       <tr>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/AA44DD/000.webp?text=AA44DD&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/AA44DD/000.webp?text=AA44DD&font=raleway&"
            />
           <br />
           <div
@@ -1217,8 +1234,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/884499/000.webp?text=884499&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/662A77/000.webp?text=662A77&font=raleway&"
            />
           <br />
           <div
@@ -1231,8 +1248,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/6644BB/000.webp?text=6644BB&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/6633BB/000.webp?text=6633BB&font=raleway&"
            />
           <br />
           <div
@@ -1245,8 +1262,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/55BB77/000.webp?text=55BB77&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/55BB77/000.webp?text=55BB77&font=raleway&"
            />
           <br />
           <div
@@ -1259,8 +1276,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/DD99EE/000.webp?text=DD99EE&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/DD99EE/000.webp?text=DD99EE&font=raleway&"
            />
           <br />
           <div
@@ -1275,8 +1292,8 @@
       <tr>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/9944EE/000.webp?text=9944EE&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/9944EE/000.webp?text=9944EE&font=raleway&"
            />
           <br />
           <div
@@ -1289,8 +1306,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/BB55AA/000.webp?text=BB55AA&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/773388/000.webp?text=773388&font=raleway&"
            />
           <br />
           <div
@@ -1303,8 +1320,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/7755CC/000.webp?text=7755CC&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/7744CC/000.webp?text=7744CC&font=raleway&"
            />
           <br />
           <div
@@ -1317,8 +1334,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/66CC88/000.webp?text=66CC88&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/66CC88/000.webp?text=66CC88&font=raleway&"
            />
           <br />
           <div
@@ -1331,8 +1348,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/EEAAEE/000.webp?text=EEAAEE&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/EEAAEE/000.webp?text=EEAAEE&font=raleway&"
            />
           <br />
           <div
@@ -1347,8 +1364,8 @@
       <tr>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/8844FF/000.webp?text=8844FF&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/8844FF/000.webp?text=8844FF&font=raleway&"
            />
           <br />
           <div
@@ -1361,8 +1378,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/CC66BB/000.webp?text=CC66BB&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/884499/000.webp?text=884499&font=raleway&"
            />
           <br />
           <div
@@ -1375,8 +1392,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/8866DD/000.webp?text=8866DD&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/8855DD/000.webp?text=8855DD&font=raleway&"
            />
           <br />
           <div
@@ -1389,8 +1406,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/77DD99/000.webp?text=77DD99&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/77DD99/000.webp?text=77DD99&font=raleway&"
            />
           <br />
           <div
@@ -1403,8 +1420,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/EEBBFF/000.webp?text=EEBBFF&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/EEBBFF/000.webp?text=EEBBFF&font=raleway&"
            />
           <br />
           <div
@@ -1419,8 +1436,8 @@
       <tr>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/7755FF/000.webp?text=7755FF&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/7755FF/000.webp?text=7755FF&font=raleway&"
            />
           <br />
           <div
@@ -1433,8 +1450,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/DD77CC/000.webp?text=DD77CC&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/AA55BB/000.webp?text=AA55BB&font=raleway&"
            />
           <br />
           <div
@@ -1447,8 +1464,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/9977EE/000.webp?text=9977EE&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/9955EE/000.webp?text=9955EE&font=raleway&"
            />
           <br />
           <div
@@ -1461,8 +1478,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/88EEAA/000.webp?text=88EEAA&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/88EEAA/000.webp?text=88EEAA&font=raleway&"
            />
           <br />
           <div
@@ -1475,8 +1492,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/FFCCFF/000.webp?text=FFCCFF&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/FFCCFF/000.webp?text=FFCCFF&font=raleway&"
            />
           <br />
           <div
@@ -1491,8 +1508,8 @@
       <tr>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/6655FF/000.webp?text=6655FF&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/6655FF/000.webp?text=6655FF&font=raleway&"
            />
           <br />
           <div
@@ -1505,8 +1522,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/EE88DD/000.webp?text=EE88DD&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/BB66CC/000.webp?text=BB66CC&font=raleway&"
            />
           <br />
           <div
@@ -1519,8 +1536,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/AA88FF/000.webp?text=AA88FF&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/AA55FF/000.webp?text=AA55FF&font=raleway&"
            />
           <br />
           <div
@@ -1533,8 +1550,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/99FFAA/000.webp?text=99FFAA&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/99FFAA/000.webp?text=99FFAA&font=raleway&"
            />
           <br />
           <div
@@ -1547,8 +1564,8 @@
         </td>
         <td>
           <img
-            width="140"
-            src="https://placehold.co/140x60@2x/FFDDFF/000.webp?text=FFDDFF&font=raleway&"
+            width="120"
+            src="https://placehold.co/120x60@2x/FFDDFF/000.webp?text=FFDDFF&font=raleway&"
            />
           <br />
           <div
@@ -1569,7 +1586,7 @@
 >
   <h4>
     <a
-      href="README.sh"
+      href="https://github.com/metaory/blob/master/README.sh"
     >
       README.sh
     </a>
@@ -1589,7 +1606,7 @@
       markup.json
     </a>
     <blockquote>
-      DOM Markup Abstract Syntax Tree representation in compact JSON ╼╾ Specification, Transformer Library and CLI
+      DOM Markup AST representation in compact JSON ╼╾ Specification, Transformer Library and CLI
     </blockquote>
   </li>
   <li>
@@ -1609,7 +1626,7 @@
   License
 </h2>
 <a
-  href="LICENSE"
+  href="https://github.com/metaory/blob/master/LICENSE"
 >
   MIT
 </a>

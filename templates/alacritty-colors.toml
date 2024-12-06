@@ -1,0 +1,129 @@
+# mxc: path=$XDG_CONFIG_HOME/alacritty/alacritty-colors.toml
+
+[colors]
+transparent_background_colors = false
+draw_bold_text_with_bright_colors = true
+indexed_colors = [
+  { index = 21, color = '$CX4' },
+  { index = 52, color = '$CX5' },
+  { index = 88, color = '$CX1' },
+]
+
+[colors.primary]
+foreground        = '$XFG'
+background        = '$XBG'
+dim_foreground    = '$WK7'
+bright_foreground = '$WK4'
+
+[colors.hints.start]
+foreground = '$CBB'
+background = '$WBG'
+
+[colors.hints.end]
+foreground = '$CBB'
+background = '$SBG'
+
+[colors.selection]
+text = '$CBB'
+background = '$CX3'
+
+[colors.footer_bar]
+foreground = '$WFG'
+background = '$WBG'
+
+[colors.search.matches]
+foreground = '$CBB'
+background = '$CX3'
+
+[colors.search.focused_match]
+foreground = '$CBB'
+background = '$CX1'
+
+[colors.line_indicator]
+foreground = '$CBB'
+background = '$C03'
+
+[colors.vi_mode_cursor]
+text = 'CellBackground'
+cursor = 'CellForeground'
+
+[colors.cursor]
+text = 'CellBackground'
+cursor = 'CellForeground'
+
+[colors.normal]
+red = '$C01'
+green = '$C02'
+yellow = '$C03'
+blue = '$C04'
+magenta = '$C05'
+cyan = '$C06'
+black = '$SK0'
+white = '$C07'
+
+[colors.bright]
+red = '$C09'
+green = '$C10'
+yellow = '$C11'
+blue = '$C12'
+magenta = '$C13'
+cyan = '$C14'
+black = '$C08'
+white = '$C15'
+
+# [colors.dim]
+# red     = '$C09'
+# green   = '$C10'
+# yellow  = '$C11'
+# blue    = '$C12'
+# magenta = '$C13'
+# cyan    = '$C14'
+# black   = '$C08'
+# white   = '$C15'
+
+# The indexed colors include all colors from 16
+# to  256.  When  these  are  not  set, they're
+# filled with sensible defaults.
+#
+# Default: []
+
+#  { index = 231, color = '#221155' }, # Grey100 #ffffff rgb(255,255,255) hsl(0,0%,100%
+
+# https://www.ditig.com/publications/256-colors-cheat-sheet
+  # { index = 231, color = '#221155' }, # Grey100 #ffffff rgb(255,255,255) hsl(0,0%,100%
+  # { index = 232, color = '#221155' }, # Grey3   #080808 rgb(8,8,8)       hsl(0,0%,3%)
+  # { index = 233, color = '#221155' }, # Grey7   #121212 rgb(18,18,18)    hsl(0,0%,7%)
+  # { index = 234, color = '#331166' }, # Grey11  #1c1c1c rgb(28,28,28)    hsl(0,0%,10%)
+  # { index = 235, color = '#443366' }, # Grey15  #262626 rgb(38,38,38)    hsl(0,0%,14%)
+  # { index = 236, color = '#EE1155' }, # Grey19  #303030 rgb(48,48,48)    hsl(0,0%,18%)
+  # { index = 237, color = '#EE1155' }, # Grey23  #3a3a3a rgb(58,58,58)    hsl(0,0%,22%)
+  # { index = 238, color = '#EE1155' }, # Grey27  #444444 rgb(68,68,68)    hsl(0,0%,26%)
+  # { index = 239, color = '#EE1155' }, # Grey30  #4e4e4e rgb(78,78,78)    hsl(0,0%,30%)
+  # { index = 240, color = '#EE1155' }, # Grey35  #585858 rgb(88,88,88)    hsl(0,0%,34%)
+  # { index = 241, color = '#EE1155' }, # Grey39  #626262 rgb(98,98,98)    hsl(0,0%,37%)
+  # { index = 242, color = '#0E1155' }, # Grey42  #6c6c6c rgb(108,108,108) hsl(0,0%,40%)
+  # { index = 243, color = '#EEf155' }, # Grey46  #767676 rgb(118,118,118) hsl(0,0%,46%)
+  # { index = 244, color = '#EE1155' }, # Grey50  #808080 rgb(128,128,128) hsl(0,0%,50%)
+  # { index = 245, color = '#EE1155' }, # Grey54  #8a8a8a rgb(138,138,138) hsl(0,0%,54%)
+  # { index = 246, color = '#EE1155' }, # Grey58  #949494 rgb(148,148,148) hsl(0,0%,58%)
+  # { index = 247, color = '#EE1155' }, # Grey62  #9e9e9e rgb(158,158,158) hsl(0,0%,61%)
+  # { index = 248, color = '#001155' }, # Grey66  #a8a8a8 rgb(168,168,168) hsl(0,0%,65%)
+  # { index = 249, color = '#001155' }, # Grey70  #b2b2b2 rgb(178,178,178) hsl(0,0%,69%)
+  # { index = 250, color = '#001155' }, # Grey74  #bcbcbc rgb(188,188,188) hsl(0,0%,73%)
+  # { index = 251, color = '#001155' }, # Grey78  #c6c6c6 rgb(198,198,198) hsl(0,0%,77%)
+  # { index = 252, color = '#001155' }, # Grey82  #d0d0d0 rgb(208,208,208) hsl(0,0%,81%)
+  # { index = 253, color = '#001155' }, # Grey85  #dadada rgb(218,218,218) hsl(0,0%,85%)
+  # { index = 254, color = '#001155' }, # Grey89  #e4e4e4 rgb(228,228,228) hsl(0,0%,89%)
+  # { index = 255, color = '#001155' }, # Grey93  #eeeeee rgb(238,238,238) hsl(0,0%,93%)
+
+  # { index = 255, color = '#001155' }, # Grey93  #xxxxxx rgb(100,80, 140) hsl(0,0%,93%)
+  # { index = 255, color = '#001155' }, # Grey93  #xxxxxx rgb(110,90, 150) hsl(0,0%,93%)
+  # { index = 255, color = '#001155' }, # Grey93  #xxxxxx rgb(120,100,160) hsl(0,0%,93%)
+  # { index = 255, color = '#001155' }, # Grey93  #xxxxxx rgb(130,110,170) hsl(0,0%,93%)
+  # { index = 255, color = '#001155' }, # Grey93  #xxxxxx rgb(140,120,180) hsl(0,0%,93%)
+  # { index = 255, color = '#001155' }, # Grey93  #xxxxxx rgb(150,130,190) hsl(0,0%,93%)
+  # { index = 255, color = '#001155' }, # Grey93  #xxxxxx rgb(160,140,200) hsl(0,0%,93%)
+  # { index = 255, color = '#001155' }, # Grey93  #xxxxxx rgb(170,150,210) hsl(0,0%,93%)
+  # { index = 255, color = '#001155' }, # Grey93  #xxxxxx rgb(180,160,220) hsl(0,0%,93%)
+  # { index = 255, color = '#001155' }, # Grey93  #xxxxxx rgb(190,170,230) hsl(0,0%,93%)
+  # { index = 255, color = '#001155' }, # Grey93  #xxxxxx rgb(200,180,240) hsl(0,0%,93%)

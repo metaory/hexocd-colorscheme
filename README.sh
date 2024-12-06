@@ -1,7 +1,10 @@
 #!/bin/bash
 
-export FONT='raleway'
-export U="https://placehold.co/140x60@2x"
+# shellcheck disable=SC1090
+
+FONT='raleway'
+GH=https://github.com/metaory
+U="https://placehold.co/120x60@2x"
 
 : >README.md
 
@@ -15,44 +18,76 @@ EOF
 
 command -v markup >/dev/null || npm i -g markup.json
 command -v jq >/dev/null || exit 1
+source <(sed 's/=#/=/g' hexocd.env)
 
-source hexocd.env
 
-markup <<<'
+markup <<EOF >>README.md
 [
-  ["div",{"align":"center"},
-    ["img",{"src":".github/assets/icon.webp","height":"140"}],
-    ["h1","HE̶̶X̶̶OCD"]
-  ], ""
+  [
+    "div",
+    { "align": "center" },
+    [
+      "img",
+      { "src": ".github/assets/icon.webp", "height": "120" }
+    ],
+    ["h1", "HE̶̶X̶̶OCD" ]
+  ],
+  "",
+  ["h3", "Templates"],
+  "Refer to",
+  ["a", { "href": "${GH}/confsubst" }, "confsubst"],
+  "for template usages",
+  ["hr"],
+  "Templates can be found in",
+  ["a", { "href": "${GH}/hexocd-colorscheme/tree/master/templates" }, "templates"]
 ]
-' >>README.md
+EOF
+
+cp README.md templates/
 
 function place {
-  jq '[["div",{ "align": "center" },
-  ["table",
-    ["tbody",
-      map(["tr",
-        (map(["td",
-          ["img", {
-              width: "140",
-              src: [
-                "${U}/${" + . + "}/000.webp?", {
-                  text: ("${" + . + "}"),
-                  font: "${FONT}"
-                }
-              ]
-            }
-          ],
-          ["br"],
-          ["div",{ align: "center" },["kbd", .]]
-        ]))[]
-      ])[]
+  jq -f <(
+    cat <<EOF
+[
+  [
+    "div",
+    { "align": "center" },
+    [
+      "table",
+      [
+        "tbody",
+        map([
+          "tr",
+          (map([
+            "td",
+            [
+              "img",
+              {
+                width: "120",
+                src: [
+                  ("${U}/\${" + . + "}/000.webp?"),
+                  {
+                    text: ("\${" + . + "}"),
+                    font: "${FONT}"
+                  }
+                ]
+              }
+            ],
+            ["br"],
+            [
+              "div",
+              { align: "center" },
+              ["kbd", .]
+            ]
+          ]))[]
+        ])[]
+      ]
     ]
-  ]
-],""]' <<<"$1" |
-    envsubst |
-    sed 's/#//g' |
-    markup >>README.md
+  ],
+  ""
+]
+EOF
+  ) <<<"$1" | envsubst | markup >>README.md
 }
 
 place '[["XFG", "XBG"]]'
@@ -67,52 +102,78 @@ place '[
   ["CY0", "C08", "C00", "CC0", "CX0", "CZ0"]
 ]'
 
-markup <<<'[
-  ["div",{ "align": "center" },
-    ["h2", ["a",{"href":"hexocd.env"},"hexocd.env"]]
+markup <<EOF >>README.md
+[
+  [
+    "div",
+    { "align": "center" },
+    [
+      "h2",
+      ["a", { "href": "hexocd.env" }, "hexocd.env"]
+    ]
   ],
   ["hr"]
-]' >>README.md
+]
+EOF
 
 place '[
-  [ "XBG", "SBG", "WBG", "EBG", "XBG"],
-  [ "PK0", "SK0", "WK0", "EK0", "ZK0"],
-  [ "PK1", "SK1", "WK1", "EK1", "ZK1"],
-  [ "PK2", "SK2", "WK2", "EK2", "ZK2"],
-  [ "PK3", "SK3", "WK3", "EK3", "ZK3"],
-  [ "PK4", "SK4", "WK4", "EK4", "ZK4"],
-  [ "PK5", "SK5", "WK5", "EK5", "ZK5"],
-  [ "PK6", "SK6", "WK6", "EK6", "ZK6"],
-  [ "PK7", "SK7", "WK7", "EK7", "ZK7"],
-  [ "PK8", "SK8", "WK8", "EK8", "ZK8"],
-  [ "PK9", "SK9", "WK9", "EK9", "ZK9"]
+  ["XBG", "SBG", "WBG", "EBG", "XBG"],
+  ["PK0", "SK0", "WK0", "EK0", "ZK0"],
+  ["PK1", "SK1", "WK1", "EK1", "ZK1"],
+  ["PK2", "SK2", "WK2", "EK2", "ZK2"],
+  ["PK3", "SK3", "WK3", "EK3", "ZK3"],
+  ["PK4", "SK4", "WK4", "EK4", "ZK4"],
+  ["PK5", "SK5", "WK5", "EK5", "ZK5"],
+  ["PK6", "SK6", "WK6", "EK6", "ZK6"],
+  ["PK7", "SK7", "WK7", "EK7", "ZK7"],
+  ["PK8", "SK8", "WK8", "EK8", "ZK8"],
+  ["PK9", "SK9", "WK9", "EK9", "ZK9"]
 ]'
 
-API=https://api.github.com/repos/metaory
+desc='[]'
 for name in markup.json confsubst; do
-  export "${name/\./_}=$(curl "$API/$name" | jq -r '.description')"
+  desc="$(jq -c ".+ $(
+    gh \
+      repo view "$name" \
+      --json 'name,description,url' \
+      --jq '[[.name,.description,.url]]'
+  )" <<<"$desc")"
 done
 
-jq '[["div", { "align": "center" },
-    ["h4",
-      ["a", { "href": "README.sh" }, "README.sh"],
+jq -f <(
+  cat <<EOF
+[
+  [
+    "div",
+    { "align": "center" },
+    [
+      "h4",
+      [
+        "a",
+        { "href": "${GH}/blob/master/README.sh" },
+        "README.sh"
+      ],
       "generated this readme 🧙"
     ]
   ],
   "",
   ["hr"],
-	["h2", "Related projects"],
-	["ul",map(
-      ["li",
-        ["a", {href:("https://github.com/metaory/"+.)},.],
-        ["blockquote", "${"+(.|sub("\\.";"_"))+"}"]
-      ])[]
+  ["h2", "Related projects"],
+  [
+    "ul",
+    map([
+      "li",
+      ["a", { href: .[2] }, .[0]],
+      ["blockquote", .[1]]
+    ])[]
   ],
   "",
   ["hr"],
-  ["h2", "License"],["a",{"href":"LICENSE"},"MIT"]
-]' <<<'["markup.json", "confsubst"]' |
-  envsubst |
-  markup >>README.md
+  ["h2", "License"],
+  ["a", { "href": "${GH}/blob/master/LICENSE" }, "MIT"]
+
+]
+EOF
+) <<<"$desc" | markup >>README.md
 
 # vim: ft=bash

@@ -1,0 +1,94 @@
+GIMP Palette
+Name: inkscape-xswatch.gpl
+#
+{R} {G} {B} $XBG
+{R} {G} {B} $XFG
+
+{R} {G} {B} $C08
+{R} {G} {B} $C00
+{R} {G} {B} $CC0
+{R} {G} {B} $CX0
+
+{R} {G} {B} $C01
+{R} {G} {B} $C02
+{R} {G} {B} $C03
+{R} {G} {B} $C04
+{R} {G} {B} $C05
+{R} {G} {B} $C06
+{R} {G} {B} $C07
+
+{R} {G} {B} $C09
+{R} {G} {B} $C10
+{R} {G} {B} $C11
+{R} {G} {B} $C12
+{R} {G} {B} $C13
+{R} {G} {B} $C14
+{R} {G} {B} $C15
+
+{R} {G} {B} $CC1
+{R} {G} {B} $CC2
+{R} {G} {B} $CC3
+{R} {G} {B} $CC4
+{R} {G} {B} $CC5
+{R} {G} {B} $CC6
+{R} {G} {B} $CC7
+
+{R} {G} {B} $CX1
+{R} {G} {B} $CX2
+{R} {G} {B} $CX3
+{R} {G} {B} $CX4
+{R} {G} {B} $CX5
+{R} {G} {B} $CX6
+{R} {G} {B} $CX7
+
+{R} {G} {B} $SBG
+{R} {G} {B} $WBG
+{R} {G} {B} $EBG
+
+{R} {G} {B} $SK0
+{R} {G} {B} $SK1
+{R} {G} {B} $SK2
+{R} {G} {B} $SK3
+{R} {G} {B} $SK4
+{R} {G} {B} $SK5
+{R} {G} {B} $SK6
+{R} {G} {B} $SK7
+{R} {G} {B} $SK8
+{R} {G} {B} $SK9
+
+{R} {G} {B} $WK0
+{R} {G} {B} $WK1
+{R} {G} {B} $WK2
+{R} {G} {B} $WK3
+{R} {G} {B} $WK4
+{R} {G} {B} $WK5
+{R} {G} {B} $WK6
+{R} {G} {B} $WK7
+{R} {G} {B} $WK8
+{R} {G} {B} $WK9
+
+{R} {G} {B} $EK0
+{R} {G} {B} $EK1
+{R} {G} {B} $EK2
+{R} {G} {B} $EK3
+{R} {G} {B} $EK4
+{R} {G} {B} $EK5
+{R} {G} {B} $EK6
+{R} {G} {B} $EK7
+{R} {G} {B} $EK8
+{R} {G} {B} $EK9
+
+{R} {G} {B} $PK0
+{R} {G} {B} $PK1
+{R} {G} {B} $PK2
+{R} {G} {B} $PK3
+{R} {G} {B} $PK4
+{R} {G} {B} $PK5
+{R} {G} {B} $PK6
+{R} {G} {B} $PK7
+{R} {G} {B} $PK8
+{R} {G} {B} $PK9
+
+# mxc: path=$XDG_CONFIG_HOME/inkscape/palettes/inkscape-xswatch.gpl
+
+# post=sed -r -i '/R/s#.*(\#[A-Fa-f0-9]{6})$# printf "%s %s %s %s" $(pastel format rgb <<< "\1" |  sed -e "s/[rgb(,)]//g") " \1";#e' inkscape-xswatch.gpl

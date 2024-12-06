@@ -1,0 +1,171 @@
+# mxc: path=$XDG_CONFIG_HOME/mxc/mxc-vivid-color.yml
+
+colors:
+  cww: 'FFFFFF'
+  cbb: '000000'
+
+  c01: '$C01_'
+  c02: '$C02_'
+  c03: '$C03_'
+  c04: '$C04_'
+  c05: '$C05_'
+  c06: '$C06_'
+  c07: '$C07_'
+  c08: '$C08_'
+  c09: '$C09_'
+  c10: '$C10_'
+  c11: '$C11_'
+  c12: '$C12_'
+  c13: '$C13_'
+  c14: '$C14_'
+  c15: '$C15_'
+
+  cy0: '$CY0_'
+  cy1: '$CY1_'
+  cy2: '$CY2_'
+  cy3: '$CY3_'
+  cy4: '$CY4_'
+  cy5: '$CY5_'
+  cy6: '$CY6_'
+  cy7: '$CY7_'
+
+  cc0: '$CC0_'
+  cc1: '$CC1_'
+  cc2: '$CC2_'
+  cc3: '$CC3_'
+  cc4: '$CC4_'
+  cc5: '$CC5_'
+  cc6: '$CC6_'
+  cc7: '$CC7_'
+
+  cx0: '$CX0_'
+  cx1: '$CX1_'
+  cx2: '$CX2_'
+  cx3: '$CX3_'
+  cx4: '$CX4_'
+  cx5: '$CX5_'
+  cx6: '$CX6_'
+  cx7: '$CX7_'
+
+  cz0: '$CZ0_'
+  cz1: '$CZ1_'
+  cz2: '$CZ2_'
+  cz3: '$CZ3_'
+  cz4: '$CZ4_'
+  cz5: '$CZ5_'
+  cz6: '$CZ6_'
+  cz7: '$CZ7_'
+
+  xfg: '$XFG_'
+  xbg: '$XBG_'
+  xgg: '$XGG_'
+  sfg: '$SFG_'
+  sbg: '$SBG_'
+  wfg: '$WFG_'
+  wbg: '$WBG_'
+  efg: '$EFG_'
+  ebg: '$EBG_'
+
+core:
+  normal_text: {}
+  regular_file: {}
+  reset_to_normal: {}
+
+  directory:
+    foreground: c04
+
+  symlink:
+    foreground: cy5
+
+  multi_hard_link: {}
+
+  fifo:
+    foreground: c15
+    background: c04
+
+  socket:
+    foreground: c15
+    background: cy5
+
+  door:
+    foreground: c15
+    background: cy5
+
+  block_device:
+    foreground: cww
+    background: cx5
+
+  character_device:
+    foreground: cy5
+    background: cx4
+
+  broken_symlink:
+    foreground: c15
+    background: cx1
+
+  missing_symlink_target:
+    foreground: c15
+    background: cx1
+
+  setuid: {}
+
+  setgid: {}
+
+  file_with_capability: {}
+
+  sticky_other_writable: {}
+
+  other_writable: {}
+
+  sticky: {}
+
+  executable_file:
+    foreground: cx1
+    font-style: bold
+
+text:
+  special:
+    foreground: cbb
+    background: cx3
+
+  todo:
+    font-style: bold
+
+  licenses:
+    foreground: c07
+
+  configuration:
+    foreground: c03
+
+  other:
+    foreground: c03
+
+markup:
+  foreground: c04
+
+programming:
+  source:
+    foreground: c02
+
+  tooling:
+    foreground: c12
+
+    continuous-integration:
+      foreground: c02
+
+media:
+  foreground: c01
+
+office:
+  foreground: cx1
+
+archives:
+  foreground: c06
+  font-style: underline
+
+executable:
+  foreground: cx1
+  font-style: bold
+
+unimportant:
+  foreground: cy7
