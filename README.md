@@ -7,7 +7,7 @@
   align="center"
 >
   <img
-    src=".github/assets/icon.webp"
+    src="/.github/assets/icon.webp"
     height="120"
    />
   <h1>
