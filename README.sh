@@ -141,10 +141,10 @@ jq -f <(
       "h4",
       [
         "a",
-        { "href": "${GH}/blob/master/README.sh" },
+        { "href": "${GH}/hexocd-colorscheme/blob/master/README.sh" },
         "README.sh"
       ],
-      "generated this readme 🧙"
+      "made this readme 🧙"
     ]
   ],
   "",

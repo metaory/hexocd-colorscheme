@@ -24,7 +24,7 @@
         <td>
           <img
             width="120"
-            src="https://placehold.co/120x60@2x/44BBFF/000.webp?text=44BBFF&font=raleway&"
+            src="https://placehold.co/120x60@2x/6655FF/000.webp?text=6655FF&font=raleway&"
            />
           <br />
           <div
@@ -665,7 +665,7 @@
         <td>
           <img
             width="120"
-            src="https://placehold.co/120x60@2x/440088/000.webp?text=440088&font=raleway&"
+            src="https://placehold.co/120x60@2x/441A88/000.webp?text=441A88&font=raleway&"
            />
           <br />
           <div
@@ -679,7 +679,7 @@
         <td>
           <img
             width="120"
-            src="https://placehold.co/120x60@2x/440077/000.webp?text=440077&font=raleway&"
+            src="https://placehold.co/120x60@2x/441A55/000.webp?text=441A55&font=raleway&"
            />
           <br />
           <div
@@ -693,7 +693,7 @@
         <td>
           <img
             width="120"
-            src="https://placehold.co/120x60@2x/330066/000.webp?text=330066&font=raleway&"
+            src="https://placehold.co/120x60@2x/331166/000.webp?text=331166&font=raleway&"
            />
           <br />
           <div
@@ -707,7 +707,7 @@
         <td>
           <img
             width="120"
-            src="https://placehold.co/120x60@2x/330055/000.webp?text=330055&font=raleway&"
+            src="https://placehold.co/120x60@2x/331144/000.webp?text=331144&font=raleway&"
            />
           <br />
           <div
@@ -1569,11 +1569,11 @@
 >
   <h4>
     <a
-      href="https://github.com/metaory/blob/master/README.sh"
+      href="https://github.com/metaory/hexocd-colorscheme/blob/master/README.sh"
     >
       README.sh
     </a>
-    generated this readme 🧙
+    made this readme 🧙
   </h4>
 </div>
 
