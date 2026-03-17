@@ -1,47 +1,52 @@
-# mxc: path=$XDG_CONFIG_HOME/alacritty/alacritty-colors.toml
+# mxc: path=/home/metaory/.config/alacritty/alacritty-colors.toml
+# mxc: path=/home/metaory/.config/mxc/term-alacritty-colors.toml
+
+#  ░░░░░▒▒▒▒▒▓▓▓▓█━╸made with╺━█▓▓▓▓▒▒▒▒▒░░░░░
+#  ░░ https://github.com/metaory/confsubst  ░░
+#  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 [colors]
 transparent_background_colors = false
 draw_bold_text_with_bright_colors = true
 indexed_colors = [
-  { index = 21, color = '$CX4' },
-  { index = 52, color = '$CX5' },
-  { index = 88, color = '$CX1' },
+  { index = 21, color = '#4411AA' },
+  { index = 52, color = '#550099' },
+  { index = 88, color = '#DD1155' },
 ]
 
 [colors.primary]
-foreground        = '$XFG'
-background        = '$XBG'
-dim_foreground    = '$WK7'
-bright_foreground = '$WK4'
+foreground        = '#6655FF'
+background        = '#220033'
+dim_foreground    = '#8855DD'
+bright_foreground = '#5522AA'
 
 [colors.hints.start]
-foreground = '$CBB'
-background = '$WBG'
+foreground = '#1A002A'
+background = '#4411BB'
 
 [colors.hints.end]
-foreground = '$CBB'
-background = '$SBG'
+foreground = '#1A002A'
+background = '#DD1166'
 
 [colors.selection]
-text = '$CBB'
-background = '$CX3'
+text = '#1A002A'
+background = '#88AA00'
 
 [colors.footer_bar]
-foreground = '$WFG'
-background = '$WBG'
+foreground = '#44DDFF'
+background = '#4411BB'
 
 [colors.search.matches]
-foreground = '$CBB'
-background = '$CX3'
+foreground = '#1A002A'
+background = '#88AA00'
 
 [colors.search.focused_match]
-foreground = '$CBB'
-background = '$CX1'
+foreground = '#1A002A'
+background = '#DD1155'
 
 [colors.line_indicator]
-foreground = '$CBB'
-background = '$C03'
+foreground = '#1A002A'
+background = '#AACC22'
 
 [colors.vi_mode_cursor]
 text = 'CellBackground'
@@ -52,34 +57,34 @@ text = 'CellBackground'
 cursor = 'CellForeground'
 
 [colors.normal]
-red = '$C01'
-green = '$C02'
-yellow = '$C03'
-blue = '$C04'
-magenta = '$C05'
-cyan = '$C06'
-black = '$SK0'
-white = '$C07'
+red = '#EE3377'
+green = '#33CC55'
+yellow = '#AACC22'
+blue = '#4433CC'
+magenta = '#6611CC'
+cyan = '#33DDBB'
+black = '#1A002A'
+white = '#AA99EE'
 
 [colors.bright]
-red = '$C09'
-green = '$C10'
-yellow = '$C11'
-blue = '$C12'
-magenta = '$C13'
-cyan = '$C14'
-black = '$C08'
-white = '$C15'
+red = '#FF4488'
+green = '#44DD66'
+yellow = '#BBDD33'
+blue = '#4444DD'
+magenta = '#6611DD'
+cyan = '#44EECC'
+black = '#441A55'
+white = '#BBAAEE'
 
 # [colors.dim]
-# red     = '$C09'
-# green   = '$C10'
-# yellow  = '$C11'
-# blue    = '$C12'
-# magenta = '$C13'
-# cyan    = '$C14'
-# black   = '$C08'
-# white   = '$C15'
+# red     = '#FF4488'
+# green   = '#44DD66'
+# yellow  = '#BBDD33'
+# blue    = '#4444DD'
+# magenta = '#6611DD'
+# cyan    = '#44EECC'
+# black   = '#441A55'
+# white   = '#BBAAEE'
 
 # The indexed colors include all colors from 16
 # to  256.  When  these  are  not  set, they're

@@ -1,0 +1,179 @@
+! mxc: path=/home/metaory/.config/mxc/hexocd-colors.xdefaults
+! ######################################################
+
+!  ░░░░░▒▒▒▒▒▓▓▓▓█━╸made with╺━█▓▓▓▓▒▒▒▒▒░░░░░
+!  ░░ https://github.com/metaory/confsubst  ░░
+!  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+*.color0:               #331166
+*.color1:               #EE3377
+*.color2:               #33CC55
+*.color3:               #AACC22
+*.color4:               #4433CC
+*.color5:               #6611CC
+*.color6:               #33DDBB
+*.color7:               #AA99EE
+*.color8:               #441A55
+*.color9:               #FF4488
+*.color10:              #44DD66
+*.color11:              #BBDD33
+*.color12:              #4444DD
+*.color13:              #6611DD
+*.color14:              #44EECC
+*.color15:              #BBAAEE
+
+*.color21:              #4411AA
+*.color52:              #550099
+*.color88:              #DD1155
+
+*.background:           #220033
+*.foreground:           #6655FF
+*.selection_background: #DD1166
+*.selection_foreground: #330066
+*.cursor_text_color:    #330066
+*.cursor:               #DD1166
+
+*.cww: #CCBBEE
+*.cbb: #1A002A
+
+*.c00: #331166
+*.c01: #EE3377
+*.c02: #33CC55
+*.c03: #AACC22
+*.c04: #4433CC
+*.c05: #6611CC
+*.c06: #33DDBB
+*.c07: #AA99EE
+*.c08: #441A55
+*.c09: #FF4488
+*.c10: #44DD66
+*.c11: #BBDD33
+*.c12: #4444DD
+*.c13: #6611DD
+*.c14: #44EECC
+*.c15: #BBAAEE
+
+*.wbx: #4411BB
+*.wfx: #44DDFF
+*.sbg: #DD1166
+*.sfg: #330066
+*.wbg: #4411BB
+*.wfg: #44DDFF
+*.ebg: #229911
+*.efg: #002211
+*.xbg: #220033
+*.xfg: #6655FF
+*.xgg: #220044
+
+*.cc0: #331144
+*.cc1: #EE2266
+*.cc2: #22BB44
+*.cc3: #99BB11
+*.cc4: #4422BB
+*.cc5: #5500AA
+*.cc6: #22CCAA
+*.cc7: #9988DD
+
+*.cx0: #220044
+*.cx1: #DD1155
+*.cx2: #11AA33
+*.cx3: #88AA00
+*.cx4: #4411AA
+*.cx5: #550099
+*.cx6: #11BB99
+*.cx7: #8877DD
+
+*.cz0: #220033
+*.cz1: #DD0044
+*.cz2: #009922
+*.cz3: #779900
+*.cz4: #440099
+*.cz5: #550088
+*.cz6: #00AA88
+*.cz7: #7766DD
+
+*.cy0: #441A88
+*.cy1: #FF5599
+*.cy2: #55EE77
+*.cy3: #CCEE44
+*.cy4: #4455EE
+*.cy5: #6611EE
+*.cy6: #55FFDD
+*.cy7: #CCBBEE
+
+*.sk0: #1A002A
+*.sk1: #220033
+*.sk2: #331144
+*.sk3: #441A55
+*.sk4: #552266
+*.sk5: #662A77
+*.sk6: #773388
+*.sk7: #884499
+*.sk8: #AA55BB
+*.sk9: #BB66CC
+
+*.wk0: #110022
+*.wk1: #220044
+*.wk2: #331166
+*.wk3: #441A88
+*.wk4: #5522AA
+*.wk5: #6633BB
+*.wk6: #7744CC
+*.wk7: #8855DD
+*.wk8: #9955EE
+*.wk9: #AA55FF
+
+*.ek0: #003322
+*.ek1: #114433
+*.ek2: #226644
+*.ek3: #339955
+*.ek4: #44AA66
+*.ek5: #55BB77
+*.ek6: #66CC88
+*.ek7: #77DD99
+*.ek8: #88EEAA
+*.ek9: #99FFAA
+
+*.zk0: #BB44AA
+*.zk1: #BB55BB
+*.zk2: #CC66CC
+*.zk3: #CC77DD
+*.zk4: #DD88DD
+*.zk5: #DD99EE
+*.zk6: #EEAAEE
+*.zk7: #EEBBFF
+*.zk8: #FFCCFF
+*.zk9: #FFDDFF
+
+*.pk0: #FF4488
+*.pk1: #EE4499
+*.pk2: #DD44AA
+*.pk3: #CC44BB
+*.pk4: #BB44CC
+*.pk5: #AA44DD
+*.pk6: #9944EE
+*.pk7: #8844FF
+*.pk8: #7755FF
+*.pk9: #6655FF
+
+! xscreensaver-auth.default.Dialog.topShadowColor:       #DD1166
+xscreensaver-auth.default.Dialog.foreground:             #441A55
+xscreensaver-auth.default.Dialog.background:             #1A002A
+xscreensaver-auth.default.Dialog.button.foreground:      #773388
+xscreensaver-auth.default.Dialog.button.background:      #1A002A
+xscreensaver-auth.default.Dialog.logo.background:        #1A002A
+xscreensaver-auth.default.Dialog.text.foreground:        #AA55FF
+xscreensaver-auth.default.Dialog.text.background:        #1A002A
+xscreensaver-auth.default.Dialog.error.foreground:       #DD1155
+xscreensaver-auth.default.Dialog.bottomShadowColor:      #4411BB
+xscreensaver-auth.default.Dialog.shadowWidth:            0
+xscreensaver-auth.default.Dialog.logo.width:             10
+xscreensaver-auth.default.Dialog.logo.height:            10
+xscreensaver-auth.default.Dialog.thermometer.foreground: #331144
+xscreensaver-auth.default.Dialog.thermometer.background: #1A002A
+xscreensaver-auth.default.Dialog.thermometer.width:      48
+xscreensaver-auth.default.Dialog.borderColor:            #1A002A
+xscreensaver-auth.default.Dialog.borderWidth:            32
+xscreensaver-auth.default.Dialog.internalPadding:        0
+
+
